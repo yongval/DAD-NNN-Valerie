@@ -115,6 +115,9 @@ Des ressources communes seront alimentées par tous. Chaque étudiant devra cont
 - sujet de recherche : l’IA qui nous “aide” + humour? 
 - Quelles aides? A préciser.
 
+**Ref :** 
+The Unuseless Inventions of Kenji Kawakami https://www.instagram.com/tonsil/reel/C4JQdfiOh1q/?locale=zh-hans &hl=fr 
+
 **Idée :** 
 - Jeu consolable seulement par les émotions faciales qui peut être bénéficier pour les handicapés. J’ai été inspiré par le jeu jouable seulement avec nos yeux : Eyes First games https://www.microsoft.com/en-us/research/product/eyes-first/ 
   - Anger for Attack
@@ -126,7 +129,6 @@ Des ressources communes seront alimentées par tous. Chaque étudiant devra cont
 - Alarme qu’on peut seulement éteindre avec nos sourire (pendant 3 sec)
 - ~~Conversation avec l'extraterrestre (utilisation de l'IA)~~ 
 
-**Ref :** 
-The Unuseless Inventions of Kenji Kawakami https://www.instagram.com/tonsil/reel/C4JQdfiOh1q/?locale=zh-hans &hl=fr 
+
 
 
