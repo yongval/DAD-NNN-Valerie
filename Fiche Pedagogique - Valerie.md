@@ -124,7 +124,7 @@ Des ressources communes seront alimentées par tous. Chaque étudiant devra cont
   - Sadness for Crouch
 
 - Alarme qu’on peut seulement éteindre avec nos sourire (pendant 3 sec)
-- Conversation avec l'extraterrestre (utilisation de l'IA)
+- ~~Conversation avec l'extraterrestre (utilisation de l'IA)~~ 
 
 **Ref :** 
 The Unuseless Inventions of Kenji Kawakami https://www.instagram.com/tonsil/reel/C4JQdfiOh1q/?locale=zh-hans &hl=fr 
