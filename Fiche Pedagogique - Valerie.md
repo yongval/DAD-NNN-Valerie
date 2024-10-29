@@ -116,7 +116,7 @@ Des ressources communes seront alimentées par tous. Chaque étudiant devra cont
 - Quelles aides? A préciser.
 
 **Ref :** 
-The Unuseless Inventions of Kenji Kawakami https://www.instagram.com/tonsil/reel/C4JQdfiOh1q/?locale=zh-hans &hl=fr 
+The Unuseless Inventions of Kenji Kawakami https://www.instagram.com/tonsil/reel/C4JQdfiOh1q/?locale=zh-hans&hl=fr 
 
 **Idée :** 
 - Jeu consolable seulement par les émotions faciales qui peut être bénéficier pour les handicapés. J’ai été inspiré par le jeu jouable seulement avec nos yeux : Eyes First games https://www.microsoft.com/en-us/research/product/eyes-first/ 
