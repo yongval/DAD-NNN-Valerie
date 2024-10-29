@@ -123,6 +123,10 @@ The Unuseless Inventions of Kenji Kawakami
 - https://www.instagram.com/tonsil/reel/C4JQdfiOh1q/?locale=zh-hans&hl=fr 
 - https://www.lemonde.fr/arts/portfolio/2015/02/20/les-objets-improbables-et-delirants-de-kenji-kawakami-au-palais-de-tokyo_4580304_1655012.html?epik=dj0yJnU9bHY3clBhZVVCN2t2MmtyeDZ5NHI3RU1PMkt3ZldLUkUmcD0wJm49XzV0TWNpVmZZX3FQSEl4MjFFQWhndyZ0PUFBQUFBR2NoQTVz 
 
+- https://www.molleindustria.org/
+- https://shakethatbutton.com/
+- https://abstractmachine.net/en 
+
 **Idée :** 
 - Jeu consolable seulement par les émotions faciales qui peut être bénéficier pour les handicapés. J’ai été inspiré par le jeu jouable seulement avec nos yeux : Eyes First games https://www.microsoft.com/en-us/research/product/eyes-first/ 
   - Anger for Attack
