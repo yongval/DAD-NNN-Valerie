@@ -111,6 +111,7 @@ Des ressources communes seront alimentées par tous. Chaque étudiant devra cont
 # Journal de bord
 
 ### 29.10.2024
+**À faire :** 
 - Trouver un artiste préférée
 - sujet de recherche : l’IA qui nous “aide” + humour? 
 - Quelles aides? A préciser. → quotidien? 
@@ -126,7 +127,7 @@ The Unuseless Inventions of Kenji Kawakami https://www.instagram.com/tonsil/reel
   - Surprise for Jump
   - Sadness for Crouch
 
-- Alarme qu’on peut seulement éteindre avec nos sourire (pendant 3 sec)
+- Alarme qu’on peut seulement éteindre avec nos sourire (pendant 3 sec) → design 
 - ~~Conversation avec l'extraterrestre (utilisation de l'IA)~~ 
 - Something with sport?
 
