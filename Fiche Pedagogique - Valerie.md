@@ -117,11 +117,11 @@ Des ressources communes seront alimentées par tous. Chaque étudiant devra cont
 
 **Idée :** 
 - Jeu consolable seulement par les émotions faciales qui peut être bénéficier pour les handicapés. J’ai été inspiré par le jeu jouable seulement avec nos yeux : Eyes First games https://www.microsoft.com/en-us/research/product/eyes-first/ 
-Anger for Attack
-Fear and Disgust for Go Back
-Happiness for Go Forward
-Surprise for Jump
-Sadness for Crouch
+  - Anger for Attack
+  - Fear and Disgust for Go Back
+  - Happiness for Go Forward
+  - Surprise for Jump
+  - Sadness for Crouch
 
 - Alarme qu’on peut seulement éteindre avec nos sourire (pendant 3 sec)
 
