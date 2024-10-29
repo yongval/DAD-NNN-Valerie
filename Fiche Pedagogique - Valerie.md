@@ -26,17 +26,17 @@ Faire le master dans le domaine de DAD si possible dans une autre pays (mais cel
 
 // notez vous avec une note entre 0 et 20 pour chaque compétence et rajoutez une petite description 
 
-**CODING** 14 
+**CODING** 14 (à l'aise avec html et css, niveau intermédiaire en JavaScript et PHP)
 
-**GIT ET VERSIONNING** 0
+**GIT ET VERSIONNING** 0 (je ne savais pas ce que c'est)
 
-**INTERACTIVITÉ ET RENDU TEMPS RÉEL** 8
+**INTERACTIVITÉ ET RENDU TEMPS RÉEL** 9 (j'ai déjà fait un peu d'interactivité, mais peu de rendu en temps réel. Je n'ai pas encore trop confiance en moi pour le rendu en temps réel)
 
-**GRAPHISME ET DESIGN D'INTERFACE** 11
+**GRAPHISME ET DESIGN D'INTERFACE** 13 (j'ai les connaissances et les compétences nécessaires, je trouve que je fait des designs propres, mais il me manque un peu de prise de risque et d'idées innovantes)
 
-**INSTALLATION ET MISE EN ESPACE** 14
+**INSTALLATION ET MISE EN ESPACE** 14 (je sais installer proprement et organiser avec une certaine logique pour que l'espace soit cohérent quand on y circule, mais sans rien de particulièrement impressionnant)
 
-**PRÉSENTATION ET ARGUMENTATION** 12.75
+**PRÉSENTATION ET ARGUMENTATION** 12.75 (je présente bien avec une préparation suffisante, en établissant des liens entre les différentes œuvres. Je résume bien en sélectionnant les informations à expliquer dans le temps imparti. MAIS je suis nul en improvisation et en réponses aux questions imprévues) 
 
 
 
