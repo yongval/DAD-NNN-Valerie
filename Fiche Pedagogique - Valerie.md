@@ -113,7 +113,7 @@ Des ressources communes seront alimentées par tous. Chaque étudiant devra cont
 ### 29.10.2024
 - Trouver un artiste préférée
 - sujet de recherche : l’IA qui nous “aide” + humour? 
-- Quelles aides? A préciser.
+- Quelles aides? A préciser. → quotidien? 
 
 **Ref :** 
 The Unuseless Inventions of Kenji Kawakami https://www.instagram.com/tonsil/reel/C4JQdfiOh1q/?locale=zh-hans&hl=fr 
