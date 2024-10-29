@@ -1,6 +1,5 @@
 # DAD-NNN-Val
  
-# DAD-NNN-Val
 
 # Fiche Pédagogique
 
