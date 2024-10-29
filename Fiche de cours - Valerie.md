@@ -36,7 +36,7 @@ Faire le master dans le domaine de DAD si possible dans une autre pays (mais cel
 
 **INSTALLATION ET MISE EN ESPACE** 14
 
-**PRÉSENTATION ET ARGUMENTATION** 12.5
+**PRÉSENTATION ET ARGUMENTATION** 12.75
 
 
 
