@@ -126,6 +126,7 @@ Des ressources communes seront alimentées par tous. Chaque étudiant devra cont
 - https://www.molleindustria.org/
 - https://shakethatbutton.com/
 - https://abstractmachine.net/en 
+- Jan Hakon Erichsen http://www.janhakon.com/ 
 
 **Idée :** 
 - Jeu consolable seulement par les émotions faciales qui peut être bénéficier pour les handicapés. J’ai été inspiré par le jeu jouable seulement avec les  yeux : Eyes First games https://www.microsoft.com/en-us/research/product/eyes-first/ 
