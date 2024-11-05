@@ -146,6 +146,8 @@ Des ressources communes seront alimentées par tous. Chaque étudiant devra cont
 ### 05.11.2024
 **Planning de Travail :** 
 - Alarme design → INTERACTIVITÉ ET RENDU TEMPS RÉEL & GRAPHISME ET DESIGN D'INTERFACE
+- Chercher des refs pour Alarme
+- Alarme écrire la description du projet
 - sujet de recherche : Utiliser l'IA comme assistant au quotidien
 
 **Ref :** 
