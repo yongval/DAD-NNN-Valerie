@@ -141,7 +141,6 @@ Des ressources communes seront alimentées par tous. Chaque étudiant devra cont
 
 **Ref :** 
 - These 3 smart objects remind senior citizens to take pills, read without strain and stay connected! https://www.yankodesign.com/2020/07/21/these-3-smart-objects-remind-senior-citizens-to-take-pills-read-without-strain-and-stay-connected/ 
-
 - ODDADA
 - Orca by Rek & Devine https://hundredrabbits.itch.io/orca 
 
