@@ -14,7 +14,4 @@
 **Ref**
 - (Design) Solo Radio Matches Music to Your Mood https://coolhunting.com/tech/solo-radio-mood-matches-expression/ 
 
-
-→ Alarme sans aiguilles 
-
 <img src="/img/alarme_sketch1.jpg" height="500">
