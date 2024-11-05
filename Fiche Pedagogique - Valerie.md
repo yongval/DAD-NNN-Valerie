@@ -60,7 +60,7 @@ Nous avons tous du mal à nous lever chaque matin, et les alarmes classiques ne 
 
 ## Outils et Techniques
 
-- **Outils que vous comptez utiliser (logiciels, langages de programmation, etc.) :**   
+- **Outils que vous comptez utiliser (logiciels, langages de programmation, etc.) :**  p5js, faceAPI ml5,  
 - **Techniques spécifiques que vous souhaitez maîtriser ou expérimenter :** 
 
 ## Références Artistiques
