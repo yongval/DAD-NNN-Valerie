@@ -49,7 +49,6 @@ Faire le master dans le domaine de DAD si possible dans une autre pays (mais cel
 - **Titre du projet :**  Be happy to stop the alarm!
 - **Description du projet (environ 150 mots) :**  
 Nous avons tous du mal à nous lever chaque matin, et les alarmes classiques ne rendent pas les choses plus agréables. C'est en partant de ce constat que j'ai développé une alarme qui transforme le réveil en un moment plus positif. Cette alarme ne peut être arrêtée qu’en souriant pendant trois secondes, ce qui non seulement la rend moins stressée mais aussi efficace pour débuter la journée sur une note positive. 
-
 Lors de mon projet utilisant la détection faciale, à chaque essai de détection faciale me faisait sourire, ce qui m’a étonnamment aidé à rester concentré avec moins de stresse, même en cas de frustration. Cette idée a évolué en une alarme basée sur la reconnaissance faciale, qui encourage un état d’esprit détendu dès le réveil. C'est un petit changement, mais il peut faire une grande différence dans notre manière de commencer la journée.
 
 
