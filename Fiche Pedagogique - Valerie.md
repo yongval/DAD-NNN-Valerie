@@ -47,7 +47,10 @@ Faire le master dans le domaine de DAD si possible dans une autre pays (mais cel
 ### Sujet de Projet
 
 - **Titre du projet :**  Be happy to stop the alarm!
-- **Description du projet (environ 150 mots) :** 
+- **Description du projet (environ 150 mots) :**  Nous avons tous du mal à nous lever chaque matin, et les alarmes classiques ne rendent pas les choses plus agréables. C'est en partant de ce constat que j'ai développé une alarme qui transforme le réveil en un moment plus positif. Cette alarme ne peut être arrêtée qu’en souriant pendant trois secondes, ce qui non seulement la rend moins stressée mais aussi efficace pour débuter la journée sur une note positive. 
+
+Lors de mon projet utilisant la détection faciale, à chaque essai de détection faciale me faisait sourire, ce qui m’a étonnamment aidé à rester concentré avec moins de stresse, même en cas de frustration. Cette idée a évolué en une alarme basée sur la reconnaissance faciale, qui encourage un état d’esprit détendu dès le réveil. C'est un petit changement, mais il peut faire une grande différence dans notre manière de commencer la journée.
+
 
 ### Thématiques de Recherche
 
@@ -64,30 +67,6 @@ Faire le master dans le domaine de DAD si possible dans une autre pays (mais cel
 - **Argumentaire expliquant la pertinence de votre projet (environ 150 mots) :**   
 - **Références artistiques qui inspirent votre travail (livres, artistes, œuvres, etc.) :** 
 
-
-
-# Projet 2
-
-### Sujet de Projet
-
-- **Titre du projet :**  Jeu Idle... 
-- **Description du projet (environ 150 mots) :** 
-
-### Thématiques de Recherche
-
-- **Thématiques que vous souhaitez explorer :**   
-- **Pourquoi cette thématique vous intéresse-t-elle ? (environ 100 mots) :** 
-
-## Outils et Techniques
-
-- **Outils que vous comptez utiliser (logiciels, langages de programmation, etc.) :**   
-- **Techniques spécifiques que vous souhaitez maîtriser ou expérimenter :** 
-
-## Références Artistiques
-
-- **Argumentaire expliquant la pertinence de votre projet (environ 150 mots) :**   
-- **Références artistiques qui inspirent votre travail (livres, artistes, œuvres, etc.) :** 
-  - https://www.creativeapplications.net/nft/find-my-love-infinite-computer-theorem-exonemo/ 
 
 
 
@@ -138,9 +117,9 @@ Des ressources communes seront alimentées par tous. Chaque étudiant devra cont
   - https://www.instagram.com/tonsil/reel/C4JQdfiOh1q/?locale=zh-hans&hl=fr 
   - https://www.lemonde.fr/arts/portfolio/2015/02/20/les-objets-improbables-et-delirants-de-kenji-kawakami-au-palais-de-tokyo_4580304_1655012.html?epik=dj0yJnU9bHY3clBhZVVCN2t2MmtyeDZ5NHI3RU1PMkt3ZldLUkUmcD0wJm49XzV0TWNpVmZZX3FQSEl4MjFFQWhndyZ0PUFBQUFBR2NoQTVz 
 
-- https://www.molleindustria.org/
-- https://shakethatbutton.com/
-- https://abstractmachine.net/en 
+- Molleindustria Games https://www.molleindustria.org/
+- Shake that Button https://shakethatbutton.com/
+- Abstract Machine https://abstractmachine.net/en 
 - Jan Hakon Erichsen http://www.janhakon.com/ 
 
 **Idée :** 
