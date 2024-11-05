@@ -128,7 +128,7 @@ Des ressources communes seront alimentées par tous. Chaque étudiant devra cont
 - https://abstractmachine.net/en 
 
 **Idée :** 
-- Jeu consolable seulement par les émotions faciales qui peut être bénéficier pour les handicapés. J’ai été inspiré par le jeu jouable seulement avec les yeux : Eyes First games https://www.microsoft.com/en-us/research/product/eyes-first/ 
+- Jeu consolable seulement par les émotions faciales qui peut être bénéficier pour les handicapés. J’ai été inspiré par le jeu jouable seulement avec les  yeux : Eyes First games https://www.microsoft.com/en-us/research/product/eyes-first/ 
   - Anger for Attack
   - Fear and Disgust for Go Back
   - Happiness for Go Forward
