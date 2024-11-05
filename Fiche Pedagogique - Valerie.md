@@ -146,4 +146,6 @@ Des ressources communes seront alimentées par tous. Chaque étudiant devra cont
 **À faire :** 
 - Alarme design → INTERACTIVITÉ ET RENDU TEMPS RÉEL & GRAPHISME ET DESIGN D'INTERFACE
 
+**Ref :** 
+- These 3 smart objects remind senior citizens to take pills, read without strain and stay connected! https://www.yankodesign.com/2020/07/21/these-3-smart-objects-remind-senior-citizens-to-take-pills-read-without-strain-and-stay-connected/ 
 
