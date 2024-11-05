@@ -134,12 +134,9 @@ Des ressources communes seront alimentées par tous. Chaque étudiant devra cont
 - Something with sport?
 
 
-
-
 ### 29.10.2024 ~ 05.11.2024
-Finir le code pour l'alarme
-
-
+- Finir le code pour l'alarme
+- Concrétiser ma positionnement sur le sujet de recherche
 
 
 ### 05.11.2024
