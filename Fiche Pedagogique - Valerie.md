@@ -127,7 +127,7 @@ Des ressources communes seront alimentées par tous. Chaque étudiant devra cont
   - Surprise for Jump
   - Sadness for Crouch
 
-ou narration comme Universal Paperclips 
+*ou narration comme Universal Paperclips* 
 
 - Alarme qu’on peut seulement éteindre avec nos sourire (pendant 3 sec) → design 
 - Conversation avec l'extraterrestre (utilisation de l'IA) 
