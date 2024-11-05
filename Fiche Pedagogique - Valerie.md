@@ -138,6 +138,7 @@ Des ressources communes seront alimentées par tous. Chaque étudiant devra cont
 ### 05.11.2024
 **Planning de Travail :** 
 - Alarme design → INTERACTIVITÉ ET RENDU TEMPS RÉEL & GRAPHISME ET DESIGN D'INTERFACE
+- sujet de recherche : Utiliser l'IA comme assistant au quotidien
 
 **Ref :** 
 - These 3 smart objects remind senior citizens to take pills, read without strain and stay connected! https://www.yankodesign.com/2020/07/21/these-3-smart-objects-remind-senior-citizens-to-take-pills-read-without-strain-and-stay-connected/ 
