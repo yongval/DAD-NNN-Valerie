@@ -91,17 +91,6 @@ Des ressources communes seront alimentées par tous. Chaque étudiant devra cont
 
 
 
-## Planification
-
-### Planning de Travail
-
-- Établissez un planning des étapes clés pour votre projet :
-  - **Étape 1 :** Date et description   
-  - **Étape 2 :** Date et description   
-  - **Étape 3 :** Date et description 
-
-
-
 ## Commentaires et Questions
 
 //Avez-vous des questions ou des préoccupations à propos du cours ou de vos projets ? : 
@@ -113,7 +102,7 @@ Des ressources communes seront alimentées par tous. Chaque étudiant devra cont
 # Journal de bord
 
 ### 29.10.2024
-**À faire :** 
+**Planning de Travail :** 
 - Trouver un artiste préférée
   - Aram Bartholl https://arambartholl.com/ 
   - Kyle Mcdonald https://kylemcdonald.net/ 
@@ -147,7 +136,7 @@ Des ressources communes seront alimentées par tous. Chaque étudiant devra cont
 
 
 ### 05.11.2024
-**À faire :** 
+**Planning de Travail :** 
 - Alarme design → INTERACTIVITÉ ET RENDU TEMPS RÉEL & GRAPHISME ET DESIGN D'INTERFACE
 
 **Ref :** 
