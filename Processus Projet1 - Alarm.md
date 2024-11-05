@@ -16,4 +16,4 @@
 
 
 → Alarme sans aiguilles 
-![Texte alternatif](/img/alarme_sketch1.jpg "sketch 1" ).
+![Texte alternatif](/img/alarme_sketch1.jpg "sketch 1" ){width=250px}.
