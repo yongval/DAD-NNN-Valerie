@@ -1,5 +1,8 @@
 # Processus
 
+## CODE CRÉATIF
+- p5js → face api ml5
+
 ## NTERACTIVITÉ ET RENDU TEMPS RÉEL & GRAPHISME ET DESIGN D'INTERFACE
 - Alarme réel seulement avec caméra? 
 - Alarme avec modification (design) ?
