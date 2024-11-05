@@ -46,7 +46,7 @@ Faire le master dans le domaine de DAD si possible dans une autre pays (mais cel
 
 ### Sujet de Projet
 
-- **Titre du projet :**   
+- **Titre du projet :**  Be happy to stop the alarm!
 - **Description du projet (environ 150 mots) :** 
 
 ### Thématiques de Recherche
@@ -139,5 +139,10 @@ Des ressources communes seront alimentées par tous. Chaque étudiant devra cont
 - ~~Conversation avec l'extraterrestre (utilisation de l'IA)~~ 
 - Something with sport?
 
+
+
+### 05.11.2024
+**À faire :** 
+- Alarme design → INTERACTIVITÉ ET RENDU TEMPS RÉEL & GRAPHISME ET DESIGN D'INTERFACE
 
 
