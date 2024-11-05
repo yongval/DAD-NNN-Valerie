@@ -76,6 +76,7 @@ Faire le master dans le domaine de DAD si possible dans une autre pays (mais cel
 
 ### **CRÉATION D'UN SUJET DE RECHERCHE**
 // Vous devrez tous écrire un sujet de recherche, une thématique ou un propos de création lié à l'un de vos projets. Par exemple, si vous avez un projet de création d'un outil de capture d'image basé sur des algorithmes, vous devrez formuler un intitulé pour cette pratique : « Création de capture d'image algorithmique sur mobile ».
+
 Utiliser l'IA comme assistant au quotidien
 
 ### Participation à un Sujet de Recherche
