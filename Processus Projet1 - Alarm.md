@@ -16,4 +16,5 @@
 
 
 → Alarme sans aiguilles 
+
 <img src="/img/alarme_sketch1.jpg" height="500">
