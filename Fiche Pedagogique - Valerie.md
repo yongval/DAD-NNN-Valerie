@@ -140,8 +140,9 @@ Des ressources communes seront alimentées par tous. Chaque étudiant devra cont
 - Something with sport?
 
 
+
 ### 05.11.2024
 **À faire :** 
 - Alarme design → INTERACTIVITÉ ET RENDU TEMPS RÉEL & GRAPHISME ET DESIGN D'INTERFACE
 
-**Ref :** 
+
