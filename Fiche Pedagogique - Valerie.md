@@ -66,6 +66,30 @@ Faire le master dans le domaine de DAD si possible dans une autre pays (mais cel
 
 
 
+# Projet 2
+
+### Sujet de Projet
+
+- **Titre du projet :**  Jeu Idle... 
+- **Description du projet (environ 150 mots) :** 
+
+### Thématiques de Recherche
+
+- **Thématiques que vous souhaitez explorer :**   
+- **Pourquoi cette thématique vous intéresse-t-elle ? (environ 100 mots) :** 
+
+## Outils et Techniques
+
+- **Outils que vous comptez utiliser (logiciels, langages de programmation, etc.) :**   
+- **Techniques spécifiques que vous souhaitez maîtriser ou expérimenter :** 
+
+## Références Artistiques
+
+- **Argumentaire expliquant la pertinence de votre projet (environ 150 mots) :**   
+- **Références artistiques qui inspirent votre travail (livres, artistes, œuvres, etc.) :** 
+  - https://www.creativeapplications.net/nft/find-my-love-infinite-computer-theorem-exonemo/ 
+
+
 
 
 ## Actions
