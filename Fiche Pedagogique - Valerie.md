@@ -135,6 +135,7 @@ Des ressources communes seront alimentées par tous. Chaque étudiant devra cont
   - Happiness for Go Forward
   - Surprise for Jump
   - Sadness for Crouch
+ou narration? 
 
 - Alarme qu’on peut seulement éteindre avec nos sourire (pendant 3 sec) → design 
 - ~~Conversation avec l'extraterrestre (utilisation de l'IA)~~ 
@@ -149,3 +150,10 @@ Des ressources communes seront alimentées par tous. Chaque étudiant devra cont
 **Ref :** 
 - These 3 smart objects remind senior citizens to take pills, read without strain and stay connected! https://www.yankodesign.com/2020/07/21/these-3-smart-objects-remind-senior-citizens-to-take-pills-read-without-strain-and-stay-connected/ 
 
+- ODDADA
+- Orca by Rek & Devine https://hundredrabbits.itch.io/orca 
+Idle Game
+- Candybox https://candybox2.github.io/candybox/ 
+- Cookie Clicker https://orteil.dashnet.org/cookieclicker/
+- Paperclips https://www.decisionproblem.com/paperclips/index2.html 
+- YouTube Ego https://www.youtube.com/@ego_one 
