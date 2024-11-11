@@ -49,14 +49,14 @@ Faire le master dans le domaine de DAD si possible dans une autre pays (mais cel
 - **Titre du projet :**  Be happy to stop the alarm!
 - **Description du projet (environ 150 mots) :**  
 Nous avons tous du mal à nous lever chaque matin, et les alarmes classiques ne rendent pas les choses plus agréables. C'est en partant de ce constat que j'ai développé une alarme qui transforme le réveil en un moment plus positif. Cette alarme ne peut être arrêtée qu’en souriant pendant trois secondes, ce qui non seulement la rend moins stressée mais aussi efficace pour débuter la journée sur une note positive. 
-
   Chaque fois que je testais la détection de mon sourire, cela me faisait sourire, ce qui m’a aidé à rester concentré et détendu, même lorsque j'étais frustré. Cette idée a évolué en une alarme basée sur la reconnaissance faciale, qui encourage un état d’esprit plus agréable dès le réveil.
 
 
 ### Thématiques de Recherche
 
 - **Thématiques que vous souhaitez explorer :**   Utiliser l'IA comme assistant au quotidien, avec une approche teintée d’humour.
-- **Pourquoi cette thématique vous intéresse-t-elle ? (environ 100 mots) :**  Cette thématique m'intéresse parce que l'IA a un potentiel immense pour améliorer notre quotidien, et j'aime l'idée de l'exploiter de façon ludique et accessible. En ajoutant une touche d'humour, j’espère transformer des tâches banales ou même désagréables en expériences plus légères et engageantes. Explorer l'IA sous cet angle permet aussi de démystifier la technologie, la rendant plus humaine et conviviale. Cela m'offre la possibilité de mêler créativité et innovation, pour concevoir des outils utiles, drôles et stimulants. Je souhaite explorer les compétences technologiques qui évoluent avec nous et enrichissent notre quotidien. Je m’inspire de Bruce Mazlish, qui, dans The Fourth Discontinuity, affirme que l’Homme n'est plus seulement le créateur des machines, mais qu'il co-évolue en symbiose avec elles.
+- **Pourquoi cette thématique vous intéresse-t-elle ? (environ 100 mots) :**
+  Cette thématique m'intéresse parce que l'IA a un potentiel immense pour améliorer notre quotidien, et j'aime l'idée de l'exploiter de façon ludique et accessible. En ajoutant une touche d'humour, j’espère transformer des tâches banales ou même désagréables en expériences plus légères et engageantes. Explorer l'IA sous cet angle permet aussi de démystifier la technologie, la rendant plus humaine et conviviale. Cela m'offre la possibilité de mêler créativité et innovation, pour concevoir des outils utiles, drôles et stimulants. Je souhaite explorer les compétences technologiques qui évoluent avec nous et enrichissent notre quotidien. Je m’inspire de Bruce Mazlish, qui, dans The Fourth Discontinuity, affirme que l’Homme n'est plus seulement le créateur des machines, mais qu'il co-évolue en symbiose avec elles.
 
 
 ## Outils et Techniques
