@@ -150,7 +150,7 @@ Des ressources communes seront alimentées par tous. Chaque étudiant devra cont
 <img src="/img/alarme_sketch1.jpg" height="500">
 - Chercher des refs pour Alarme
 - Alarme écrire la description du projet
-- sujet de recherche : Utiliser l'IA comme assistant au quotidien
+- sujet de recherche
 
 **Ref :** 
 - These 3 smart objects remind senior citizens to take pills, read without strain and stay connected! https://www.yankodesign.com/2020/07/21/these-3-smart-objects-remind-senior-citizens-to-take-pills-read-without-strain-and-stay-connected/ 
