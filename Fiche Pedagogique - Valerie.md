@@ -60,8 +60,8 @@ Nous avons tous du mal à nous lever chaque matin, et les alarmes classiques ne 
 
 ## Outils et Techniques
 
-- **Outils que vous comptez utiliser (logiciels, langages de programmation, etc.) :**  p5js, faceAPI ml5,  
-- **Techniques spécifiques que vous souhaitez maîtriser ou expérimenter :** 
+- **Outils que vous comptez utiliser (logiciels, langages de programmation, etc.) :**  ml5, linux, raspberry pi, une horloge mécanique
+- **Techniques spécifiques que vous souhaitez maîtriser ou expérimenter :** linux, raspberry pi
 
 ## Références Artistiques
 
@@ -161,3 +161,16 @@ Idle Game
 - Cookie Clicker https://orteil.dashnet.org/cookieclicker/
 - Paperclips https://www.decisionproblem.com/paperclips/index2.html 
 - YouTube Ego https://www.youtube.com/@ego_one 
+
+
+### 12.11.2024
+**Planning de Travail :** 
+1. Installer linux et le découvrir
+2. ml5 sur linux
+3. quel code utilisé (voir avec Robin) 
+4. dessin design horloge mécanique (iconographique, caricaturale, machine)
+5. Trouvé une horloge (le bon coin, vinted, resources AAA, etc)
+
+**Ref :** 
+- Les Temps modernes, Charlie Chaplin - smile forcé 
+- Thingiverse (communauté pour 3D printing) 
