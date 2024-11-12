@@ -80,9 +80,9 @@ Cette thématique m'intéresse parce que l'IA a un potentiel immense pour améli
 // Décrivez comment vous comptez contribuer au projet d'un autre étudiant (proposition d'idées, aide technique, etc.) : 
 
 ### **CRÉATION D'UN SUJET DE RECHERCHE**
-// Vous devrez tous écrire un sujet de recherche, une thématique ou un propos de création lié à l'un de vos projets. Par exemple, si vous avez un projet de création d'un outil de capture d'image basé sur des algorithmes, vous devrez formuler un intitulé pour cette pratique : « Création de capture d'image algorithmique sur mobile ».
+~~Utiliser l'IA comme assistant au quotidien, avec une approche teintée d’humour.~~
 
-- Utiliser l'IA comme assistant au quotidien, avec une approche teintée d’humour.
+Questionner la présence des IA dans notre quotidien.
 
 ### Participation à un Sujet de Recherche
 
