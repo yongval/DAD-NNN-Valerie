@@ -147,6 +147,7 @@ Des ressources communes seront alimentées par tous. Chaque étudiant devra cont
 ### 05.11.2024
 **Planning de Travail :** 
 - Alarme design → INTERACTIVITÉ ET RENDU TEMPS RÉEL & GRAPHISME ET DESIGN D'INTERFACE
+<img src="/img/alarme_sketch1.jpg" height="500">
 - Chercher des refs pour Alarme
 - Alarme écrire la description du projet
 - sujet de recherche : Utiliser l'IA comme assistant au quotidien
@@ -155,6 +156,7 @@ Des ressources communes seront alimentées par tous. Chaque étudiant devra cont
 - These 3 smart objects remind senior citizens to take pills, read without strain and stay connected! https://www.yankodesign.com/2020/07/21/these-3-smart-objects-remind-senior-citizens-to-take-pills-read-without-strain-and-stay-connected/ 
 - ODDADA
 - Orca by Rek & Devine https://hundredrabbits.itch.io/orca 
+- (Design) Solo Radio Matches Music to Your Mood https://coolhunting.com/tech/solo-radio-mood-matches-expression/ 
 
 
 Idle Game
