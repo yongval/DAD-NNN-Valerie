@@ -168,7 +168,7 @@ Idle Game
 
 ### 12.11.2024
 **Planning de Travail :** 
-1. Tensorflow Lite 
+1. Tensorflow Lite → trouver python emotion detection
 2. Installer linux et le découvrir (Ubuntu)
 3. ml5 sur linux
 4. quel code faut-il utiliser (voir avec Robin) 
