@@ -175,5 +175,9 @@ Idle Game
 
 **Ref :** 
 - Les Temps modernes, Charlie Chaplin - smile forcé 
-- Thingiverse (communauté pour 3D printing) 
+- Thingiverse (communauté pour 3D printing)
+
+- How to Run TensorFlow Lite Models on Windows https://github.com/EdjeElectronics/TensorFlow-Lite-Object-Detection-on-Android-and-Raspberry-Pi/blob/master/deploy_guides/Windows_TFLite_Guide.md
+- TensorFlow Lite Object Detection on Android and Raspberry Pi https://github.com/EdjeElectronics/TensorFlow-Lite-Object-Detection-on-Android-and-Raspberry-Pi?tab=readme-ov-file#step-3-run-tensorflow-lite-models
+- How to Run TensorFlow Lite Object Detection Models on the Raspberry Pi (with Optional Coral USB Accelerator) https://github.com/EdjeElectronics/TensorFlow-Lite-Object-Detection-on-Android-and-Raspberry-Pi/blob/master/deploy_guides/Raspberry_Pi_Guide.md
 
