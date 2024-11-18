@@ -167,7 +167,7 @@ Idle Game
 
 ### 12.11.2024
 **Planning de Travail :** 
-1. Tensorflow Lite → trouver python emotion detection
+1. Tensorflow Lite → trouver python emotion detection (conda activate emotion_detection)
 2. Installer linux et le découvrir (Ubuntu)
 3. ml5 sur linux
 4. quel code faut-il utiliser (voir avec Robin) 
@@ -182,3 +182,8 @@ Idle Game
 - TensorFlow Lite Object Detection on Android and Raspberry Pi https://github.com/EdjeElectronics/TensorFlow-Lite-Object-Detection-on-Android-and-Raspberry-Pi?tab=readme-ov-file#step-3-run-tensorflow-lite-models
 - How to Run TensorFlow Lite Object Detection Models on the Raspberry Pi (with Optional Coral USB Accelerator) https://github.com/EdjeElectronics/TensorFlow-Lite-Object-Detection-on-Android-and-Raspberry-Pi/blob/master/deploy_guides/Raspberry_Pi_Guide.md
 - Youtube How To Run TensorFlow Lite on Raspberry Pi for Object Detection https://www.youtube.com/watch?app=desktop&v=aimSGOAUI8Y
+ 
+
+
+
+
