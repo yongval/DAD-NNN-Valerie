@@ -187,7 +187,7 @@ Idle Game
 Test pour tflite python → détection des élements sur les images, videos et webcam
 <img src="/img/animals.jpg" height="300">
 <img src="/img/squirrel.jpg" height="300">
-<img src="/img/webcam-test.png" height="500">
+<img src="/img/webcam-test.png" height="400">
 
 ### 19.11.2024
 **Ce que j'ai réalisé :** 
@@ -204,4 +204,4 @@ Puis testé le modèle que j'ai entraîné avec le webcam :
 2. Assurez-vous que les bibliothèques suivantes sont installées dans votre environnement : pip install opencv-python-headless numpy keras tensorflow
 3. Code pour tester avec la webcam : emotion_webcam.py (aide de ChatGPT)
 4. Exécutez le script : python emotion_webcam.py
-<img src="/img/emotion-detection.png" height="500">
+<img src="/img/emotion-detection.png" height="400">
