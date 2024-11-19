@@ -185,8 +185,8 @@ Idle Game
 
 **Ce que j'ai réalisé :** 
 Test pour tflite python → détection des élements sur les images, videos et webcam
-<img src="/img/animals.jpg" height="500">
-<img src="/img/squirrel.jpg" height="500">
+<img src="/img/animals.jpg" height="300">
+<img src="/img/squirrel.jpg" height="300">
 <img src="/img/webcam-test.png" height="500">
 
 ### 19.11.2024
