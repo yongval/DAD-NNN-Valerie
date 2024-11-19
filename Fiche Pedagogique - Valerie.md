@@ -167,7 +167,7 @@ Idle Game
 
 ### 12.11.2024
 **Planning de Travail :** 
-1. Tensorflow Lite → trouver python emotion detection (conda activate emotion_detection)
+1. Tensorflow Lite → trouver python emotion detection 
 2. Installer linux et le découvrir (Ubuntu)
 3. ml5 sur linux
 4. quel code faut-il utiliser (voir avec Robin) 
@@ -182,8 +182,26 @@ Idle Game
 - TensorFlow Lite Object Detection on Android and Raspberry Pi https://github.com/EdjeElectronics/TensorFlow-Lite-Object-Detection-on-Android-and-Raspberry-Pi?tab=readme-ov-file#step-3-run-tensorflow-lite-models
 - How to Run TensorFlow Lite Object Detection Models on the Raspberry Pi (with Optional Coral USB Accelerator) https://github.com/EdjeElectronics/TensorFlow-Lite-Object-Detection-on-Android-and-Raspberry-Pi/blob/master/deploy_guides/Raspberry_Pi_Guide.md
 - Youtube How To Run TensorFlow Lite on Raspberry Pi for Object Detection https://www.youtube.com/watch?app=desktop&v=aimSGOAUI8Y
- 
+
+**Ce que j'ai réalisé :** 
+Test pour tflite python → détection des élements sur les images, videos et webcam
+<img src="/img/animals.jpg" height="500">
+<img src="/img/squirrel.jpg" height="500">
+<img src="/img/webcam-test.png" height="500">
+
+### 19.11.2024
+**Ce que j'ai réalisé :** 
+Python emotion detection → deep learning : 
+- L'ensemble d'entraînement comprend 28 709 exemples et l'ensemble de test public comprend 3 589 exemples.
+- Dataset : https://www.kaggle.com/datasets/msambare/fer2013 
+- video suivi : https://www.youtube.com/watch?v=P4OevrwTq78&t=352s
+- Liste de code de python: https://github.com/bnsreenu/python_for_microscopists 
 
 
-
-
+Puis testé le modèle que j'ai entraîné avec le webcam : 
+0. Set environment : conda activate emotion_detection / set cd 
+1. Le modèle entraîné enregistré sous forme de fichier emotion_detection_model_100epochs.h5
+2. Assurez-vous que les bibliothèques suivantes sont installées dans votre environnement : pip install opencv-python-headless numpy keras tensorflow
+3. Code pour tester avec la webcam : emotion_webcam.py (aide de ChatGPT)
+4. Exécutez le script : python emotion_webcam.py
+<img src="/img/emotion-detection.png" height="500">
