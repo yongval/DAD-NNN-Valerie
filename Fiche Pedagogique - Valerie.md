@@ -93,7 +93,8 @@ Des ressources communes seront alimentées par tous. Chaque étudiant devra cont
 
 ### **PRÉSENTATION DE 20 MINUTES SUR UN SUJET ARTISTIQUE/DESIGN (RECHERCHE THÉORIQUE)**
 
-
+Chindogu
+https://chindogu.com/ics/ 
 
 ## Commentaires et Questions
 
@@ -212,5 +213,5 @@ Puis testé le modèle que j'ai entraîné avec le webcam :
 - À Anne-Sophie → Code Processing pour glitch d'une image
 
 **À faire**
-- Installer Rasberry Pi OS
-- Installer Linux
+- Tester Rasberry Pi → https://www.raspberrypi.com/documentation/computers/getting-started.html#install-an-operating-system
+<img src="/img/rasberry-setting.png" height="400">
