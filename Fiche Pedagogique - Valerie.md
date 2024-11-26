@@ -212,4 +212,5 @@ Puis testé le modèle que j'ai entraîné avec le webcam :
 - À Anne-Sophie → Code Processing pour glitch d'une image
 
 **À faire**
-- tester Rasberry Pi
+- Installer Rasberry Pi OS
+- Installer Linux
