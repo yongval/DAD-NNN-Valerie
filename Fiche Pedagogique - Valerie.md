@@ -211,4 +211,5 @@ Puis testé le modèle que j'ai entraîné avec le webcam :
 - Par Anne-Sophie → donner un ref https://www.domesticstreamers.com/art-research/work/730-hours-of-violence/
 - À Anne-Sophie → Code Processing pour glitch d'une image
 
-  
+**À faire**
+- tester Rasberry Pi
