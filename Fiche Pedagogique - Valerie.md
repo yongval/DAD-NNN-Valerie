@@ -205,3 +205,10 @@ Puis testé le modèle que j'ai entraîné avec le webcam :
 4. Code pour tester avec la webcam : emotion_webcam.py (aide de ChatGPT)
 5. Exécutez le script : python emotion_webcam.py
 <img src="/img/emotion-detection.png" height="400">
+
+### 26.11.2024
+**Aide**
+- Par Anne-Sophie → donner un ref https://www.domesticstreamers.com/art-research/work/730-hours-of-violence/
+- À Anne-Sophie → Code Processing pour glitch d'une image
+
+  
