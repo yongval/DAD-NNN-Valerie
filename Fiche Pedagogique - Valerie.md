@@ -139,7 +139,7 @@ Des ressources communes seront alimentées par tous. Chaque étudiant devra cont
 
 
 ### 30.10.2024 ~ 04.11.2024
-- Finir le code pour l'alarme
+- Finir le code pour l'alarme → https://editor.p5js.org/valyong/sketches/d7zULvvOu 
 - Concrétiser ma positionnement sur le sujet de recherche
 
 
@@ -199,9 +199,9 @@ Python emotion detection → deep learning :
 
 
 Puis testé le modèle que j'ai entraîné avec le webcam : 
-0. Set environment : conda activate emotion_detection / set cd 
-1. Le modèle entraîné enregistré sous forme de fichier emotion_detection_model_100epochs.h5
-2. Assurez-vous que les bibliothèques suivantes sont installées dans votre environnement : pip install opencv-python-headless numpy keras tensorflow
-3. Code pour tester avec la webcam : emotion_webcam.py (aide de ChatGPT)
-4. Exécutez le script : python emotion_webcam.py
+1. Set environment : conda activate emotion_detection / set cd 
+2. Le modèle entraîné enregistré sous forme de fichier emotion_detection_model_100epochs.h5
+3. Assurez-vous que les bibliothèques suivantes sont installées dans votre environnement : pip install opencv-python-headless numpy keras tensorflow
+4. Code pour tester avec la webcam : emotion_webcam.py (aide de ChatGPT)
+5. Exécutez le script : python emotion_webcam.py
 <img src="/img/emotion-detection.png" height="400">
