@@ -218,9 +218,9 @@ Puis testé le modèle que j'ai entraîné avec le webcam :
 
 ### 28.11.2024
 **Ce que j'ai réalisé :** 
-Python pour alarme (lance le son d'alarme et s'éteint quand il détecte Happy pendant n sec)
-- Dans python : utilisation pygame, une bibliothèque utilisée pour créer des jeux vidéo et des applications multimédias en Python, dont je peux jouer des sonsdans divers formats (comme .mp3, .wav)
-→ Pour installer pygame : pip install pygame
+Python pour alarme (lance le son d'alarme et s'éteint quand il détecte Happy)
+- Dans python : installer pygame (pip install pygame), une bibliothèque utilisée pour créer des jeux vidéo et des applications multimédias en Python, dont je peux jouer des sonsdans divers formats (comme .mp3, .wav)
+<img src="/img/happy_detected.png" height="400">
 
 - Installer TensorFlow Lite sur Raspberry Pi : https://github.com/EdjeElectronics/TensorFlow-Lite-Object-Detection-on-Android-and-Raspberry-Pi/blob/master/deploy_guides/Raspberry_Pi_Guide.md
 <img src="/img/rasberry.jpg" height="400">
