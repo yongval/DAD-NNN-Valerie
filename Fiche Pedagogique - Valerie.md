@@ -226,6 +226,7 @@ Python pour alarme (lance le son d'alarme et s'éteint quand il détecte Happy)
 <img src="/img/rasberry.jpg" height="400">
 
 - Design
-<img src="/img/horloge-design1.jpg" height="250"> <img src="/img/horloge-design2.jpg" height="250"> <img src="/img/horloge-design3.jpg" height="250"> <img src="/img/horloge-design4.jpg" height="250">  
+<img src="/img/horloge-design1.jpg" height="250"> <img src="/img/horloge-design2.jpg" height="250">
+<img src="/img/horloge-design3.jpg" height="250"> <img src="/img/horloge-design4.jpg" height="250">  
 
 
