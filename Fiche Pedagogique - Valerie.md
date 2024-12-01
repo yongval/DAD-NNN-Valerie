@@ -223,4 +223,4 @@ Python pour alarme (lance le son d'alarme et s'éteint quand il détecte Happy p
 → Pour installer pygame : pip install pygame
 
 - TensorFlow Lite sur Raspberry Pi : https://github.com/EdjeElectronics/TensorFlow-Lite-Object-Detection-on-Android-and-Raspberry-Pi/blob/master/deploy_guides/Raspberry_Pi_Guide.md
-
+<img src="/img/rasberry.jpg" height="400">
