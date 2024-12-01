@@ -225,8 +225,8 @@ Python pour alarme (lance le son d'alarme et s'éteint quand il détecte Happy)
 - Installer TensorFlow Lite sur Raspberry Pi : https://github.com/EdjeElectronics/TensorFlow-Lite-Object-Detection-on-Android-and-Raspberry-Pi/blob/master/deploy_guides/Raspberry_Pi_Guide.md
 <img src="/img/rasberry.jpg" height="400">
 
-- Design
-  typo classique qui convient bien avec le thème mécanique et classique mais composition moderne et simple
+- Design : typo classique qui convient bien avec le thème mécanique et classique mais composition moderne et simple
+
 <img src="/img/horloge-design1.jpg" height="240"> <img src="/img/horloge-design2.jpg" height="240">
 <img src="/img/horloge-design3.jpg" height="240"> <img src="/img/horloge-design4.jpg" height="240">  
 <img src="/img/horloge-design5.jpg" height="240"> 
