@@ -261,3 +261,7 @@ Dans python :
 <img src="/img/horloge-design3.jpg" height="240"> <img src="/img/horloge-design4.jpg" height="240">  
 <img src="/img/horloge-design5.jpg" height="240"> 
 
+### 03.12.2024
+**À faire**
+- Démonter l'alarme
+- Découvrir TrouchDesigner
