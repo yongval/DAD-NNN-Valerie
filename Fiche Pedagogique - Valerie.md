@@ -265,3 +265,9 @@ Dans python :
 **À faire**
 - Démonter l'alarme
 - Découvrir TrouchDesigner
+
+**Ref :** 
+- Kim Le Boutin https://www.instagram.com/kimbtn_/
+- Unconventional Site https://loadmo.re/
+- Temporary Autonomous Zone - Hakim Bey
+- Hypernormalisation | Full Documentary | Adam Curtis https://www.youtube.com/watch?v=Gr7T07WfIhM
