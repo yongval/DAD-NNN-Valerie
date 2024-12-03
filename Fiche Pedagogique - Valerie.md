@@ -272,6 +272,8 @@ Dans python :
 - Temporary Autonomous Zone - Hakim Bey
 - Hypernormalisation | Full Documentary | Adam Curtis https://www.youtube.com/watch?v=Gr7T07WfIhM
 - ENIAROF https://www.eniarof.com/
+- PANG PANG CLUB https://pangpangclub.com/
+- DISNOVATION.ORG https://disnovation.org/index.php
 
 **Ce que j'ai réalisé :** 
 - Démonter l'alarme
