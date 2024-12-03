@@ -73,7 +73,7 @@ Cette thématique m'intéresse parce que l'IA a un potentiel immense pour améli
 
 ### Sujet de Projet
 
-- **Titre du projet :**  //
+- **Titre du projet :**  
 - **Description du projet (environ 150 mots) :**  
 
 
@@ -86,14 +86,15 @@ Le sujet de recherche proposé par Émilie, « Création de visuels interactifs 
 ## Outils et Techniques
 
 - **Outils que vous comptez utiliser (logiciels, langages de programmation, etc.) :**  TouchDesigner
-- **Techniques spécifiques que vous souhaitez maîtriser ou expérimenter :** 
+- **Techniques spécifiques que vous souhaitez maîtriser ou expérimenter :** TouchDesigner
 
 ## Références Artistiques
 
 - **Argumentaire expliquant la pertinence de votre projet (environ 150 mots) :**   
 - **Références artistiques qui inspirent votre travail (livres, artistes, œuvres, etc.) :**
-  - https://www.instagram.com/reel/DBXGrR7yubD/
-  - https://www.instagram.com/reel/DBsNdCUpNc9/
+  - https://www.instagram.com/reel/DBXGrR7yubD/ → Using the #MediaPipe plugin in #TouchDesigner, it tracks hand movements and extracts the coordinates of the thumb and index fingertips, then calculates the hand’s open or closed state. When the hand opens, an audio signal is triggered and sent to #VCVRack, generating string sounds and randomly delayed chimes. The sound changes based on the coordinates, such as: the wider the fingers open, the louder the sound; moving to the right strengthens the delay effect; moving upwards raises the pitch; rotating changes the left-right stereo balance.
+  - https://www.instagram.com/reel/DBsNdCUpNc9/ → "It was made using the mediapipe plugin for touchdesigner by @blankensmithing ! i doubt i could make a better setup tutorial than his — if you search up “free motion tracking mediapipe touchdesigner” you should find the video. oh also the way i use it with ableton is through a thing called “TDAbleton” which im sure there’s many good tutorials out there for"
+  - [Tutorial] Movement Controlled Instruments – TouchDesigner, Ableton Live and Kinect https://www.youtube.com/watch?v=vHtUXvb6XMM
 
 
 ## Actions
