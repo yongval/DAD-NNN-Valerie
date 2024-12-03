@@ -81,18 +81,19 @@ Cette thématique m'intéresse parce que l'IA a un potentiel immense pour améli
 
 - **Thématiques que vous souhaitez explorer :**   Création de visuels interactifs liés principalement au son et au live vidéo
 - **Pourquoi cette thématique vous intéresse-t-elle ? (environ 100 mots) :**
-Le sujet de recherche proposé par Émilie, « Création de visuels interactifs liés principalement au son et au live vidéo », m'intéresse, car j'avais déjà travaillé sur l'interactivité sonore et je voulais l'explorer encore plus. De plus, j'avais en tête une idée à concrétiser autour de cette thématique, mais je n'avais pas trouvé l'opportunité et le temps pour le réaliser. Je pense que ca sera une occasion d'explorer cette idée tout en enrichissant mes compétences dans le domaine.
-
+Le sujet de recherche proposé par Émilie, « Création de visuels interactifs liés principalement au son et au live vidéo », m'intéresse, car j'avais déjà travaillé sur l'interactivité sonore pendant le Workshop de radio to print et je voulais l'explorer encore plus. De plus, j’ai découvert un concept fascinant sur Instagram lié au « Touch Design », où les gestes permettent de manipuler le son. Cette approche m’a captivé, car elle ouvre de nouvelles possibilités créatives et interactives avec le son que j’aimerais explorer.
 
 ## Outils et Techniques
 
-- **Outils que vous comptez utiliser (logiciels, langages de programmation, etc.) :**  ml5, linux, raspberry pi, une horloge mécanique, python, TFLite
-- **Techniques spécifiques que vous souhaitez maîtriser ou expérimenter :** linux, raspberry pi
+- **Outils que vous comptez utiliser (logiciels, langages de programmation, etc.) :**  p5js?
+- **Techniques spécifiques que vous souhaitez maîtriser ou expérimenter :** 
 
 ## Références Artistiques
 
 - **Argumentaire expliquant la pertinence de votre projet (environ 150 mots) :**   
-- **Références artistiques qui inspirent votre travail (livres, artistes, œuvres, etc.) :** 
+- **Références artistiques qui inspirent votre travail (livres, artistes, œuvres, etc.) :**
+  - https://www.instagram.com/reel/DBXGrR7yubD/
+  - https://www.instagram.com/reel/DBsNdCUpNc9/
 
 
 ## Actions
