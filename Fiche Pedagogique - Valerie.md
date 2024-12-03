@@ -252,6 +252,8 @@ Dans python :
 
 - Installer TensorFlow Lite sur Raspberry Pi : https://github.com/EdjeElectronics/TensorFlow-Lite-Object-Detection-on-Android-and-Raspberry-Pi/blob/master/deploy_guides/Raspberry_Pi_Guide.md
 <img src="/img/rasberry.jpg" height="400">
+- Convert from h5 file to tflite for rasberry pi
+<img src="/img/convert.png" height="400">
 
 - Design : typo classique qui convient bien avec le thème mécanique et classique mais composition moderne et simple
 
