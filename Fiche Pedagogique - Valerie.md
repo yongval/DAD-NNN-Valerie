@@ -81,11 +81,11 @@ Cette thématique m'intéresse parce que l'IA a un potentiel immense pour améli
 
 - **Thématiques que vous souhaitez explorer :**   Création de visuels interactifs liés principalement au son et au live vidéo
 - **Pourquoi cette thématique vous intéresse-t-elle ? (environ 100 mots) :**
-Le sujet de recherche proposé par Émilie, « Création de visuels interactifs liés principalement au son et au live vidéo », m'intéresse, car j'avais déjà travaillé sur l'interactivité sonore pendant le Workshop de radio to print et je voulais l'explorer encore plus. De plus, j’ai découvert un concept fascinant sur Instagram lié au « TouchDesigner », où les gestes permettent de manipuler le son. Cette approche m’a captivé, car elle ouvre de nouvelles possibilités créatives et interactives avec le son que j’aimerais explorer.
+Le sujet de recherche proposé par Émilie, « Création de visuels interactifs liés principalement au son et au live vidéo », m'intéresse particulièrement, car j'ai déjà exploré l'interactivité sonore lors du workshop _Radio to Print_. Cette expérience m'a donné envie d'approfondir davantage ce domaine. Par ailleurs, j’ai découvert un logiciel fascinant sur Instagram, _TouchDesigner_, qui permet de créer des projets où les gestes manipulent le son. Cette approche m’a profondément captivé, car elle ouvre des perspectives innovantes et interactives avec le son, que j’aimerais explorer dans le cadre de ce projet.
 
 ## Outils et Techniques
 
-- **Outils que vous comptez utiliser (logiciels, langages de programmation, etc.) :**  p5js?
+- **Outils que vous comptez utiliser (logiciels, langages de programmation, etc.) :**  TouchDesigner
 - **Techniques spécifiques que vous souhaitez maîtriser ou expérimenter :** 
 
 ## Références Artistiques
