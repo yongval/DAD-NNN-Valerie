@@ -100,6 +100,7 @@ Le sujet de recherche proposé par Émilie, « Création de visuels interactifs 
 ### Contribution à un Projet d'Autre Étudiant
 
 // Décrivez comment vous comptez contribuer au projet d'un autre étudiant (proposition d'idées, aide technique, etc.) : 
+Je compte contribuer au projet d'un autre étudiant en apportant mes compétences et mon expérience dans des domaines complémentaires au sien. Par exemple, je peux partager mes connaissances techniques sur le code.
 
 ### **CRÉATION D'UN SUJET DE RECHERCHE**
 ~~Utiliser l'IA comme assistant au quotidien, avec une approche teintée d’humour.~~
