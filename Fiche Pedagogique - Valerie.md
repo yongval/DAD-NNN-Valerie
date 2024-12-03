@@ -274,7 +274,5 @@ Dans python :
 
 **Ce que j'ai réalisé :** 
 - Démonter l'alarme
-<img src="/img/horloge.jpg" height="300">
-<img src="/img/sketch1.jpg" height="300">
-<img src="/img/sketch2.jpg" height="300">
+<img src="/img/horloge.jpg" height="300"> <img src="/img/sketch1.jpg" height="300"> <img src="/img/sketch2.jpg" height="300">
 - Tester python alarme sur rasberry pi (avec les images car il y a pas de webcam à ESAD) → ça marche
