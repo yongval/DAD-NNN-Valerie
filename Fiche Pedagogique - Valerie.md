@@ -79,7 +79,7 @@ Cette thématique m'intéresse parce que l'IA a un potentiel immense pour améli
 
 ### Thématiques de Recherche
 
-- **Thématiques que vous souhaitez explorer :**   Création de visuels interactifs liés principalement au son et au live vidéo
+- **Thématiques que vous souhaitez explorer :**   Comment créer des expériences contemplatives musicales ?
 - **Pourquoi cette thématique vous intéresse-t-elle ? (environ 100 mots) :**
 Le sujet de recherche proposé par Émilie, « Création de visuels interactifs liés principalement au son et au live vidéo », m'intéresse particulièrement, car j'ai déjà exploré l'interactivité sonore lors du workshop _Radio to Print_. Cette expérience m'a donné envie d'approfondir davantage ce domaine. Par ailleurs, j’ai découvert un logiciel fascinant sur Instagram, _TouchDesigner_, qui permet de créer des projets où les gestes manipulent le son. Cette approche m’a profondément captivé, car elle ouvre des perspectives innovantes et interactives avec le son, que j’aimerais explorer dans le cadre de ce projet.
 
@@ -111,7 +111,7 @@ Questionner la présence des IA dans notre quotidien.
 
 ### Participation à un Sujet de Recherche
 
-Création de visuels interactifs liés principalement au son et au live vidéo. - Émilie
+Comment créer des expériences contemplatives musicales ? - Émilie
 
 ### Contributions aux ressources
 
@@ -253,7 +253,7 @@ Dans python :
 - Installer TensorFlow Lite sur Raspberry Pi : https://github.com/EdjeElectronics/TensorFlow-Lite-Object-Detection-on-Android-and-Raspberry-Pi/blob/master/deploy_guides/Raspberry_Pi_Guide.md
 <img src="/img/rasberry.jpg" height="400">
 - Convert from h5 file to tflite for rasberry pi
-<img src="/img/convert.png" height="400">
+<img src="/img/convert.png" height="200">
 
 - Design : typo classique qui convient bien avec le thème mécanique et classique mais composition moderne et simple
 
