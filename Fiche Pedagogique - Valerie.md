@@ -60,7 +60,7 @@ Cette thématique m'intéresse parce que l'IA a un potentiel immense pour améli
 
 ## Outils et Techniques
 
-- **Outils que vous comptez utiliser (logiciels, langages de programmation, etc.) :**  ml5, linux, raspberry pi, une horloge mécanique
+- **Outils que vous comptez utiliser (logiciels, langages de programmation, etc.) :**  ml5, linux, raspberry pi, une horloge mécanique, python, TFLite
 - **Techniques spécifiques que vous souhaitez maîtriser ou expérimenter :** linux, raspberry pi
 
 ## Références Artistiques
@@ -69,7 +69,32 @@ Cette thématique m'intéresse parce que l'IA a un potentiel immense pour améli
 - **Références artistiques qui inspirent votre travail (livres, artistes, œuvres, etc.) :** 
 
 
+# Projet 2
 
+### Sujet de Projet
+
+- **Titre du projet :**  //
+- **Description du projet (environ 150 mots) :**  
+
+
+### Thématiques de Recherche
+
+- **Thématiques que vous souhaitez explorer :**   Création de visuels interactifs liés principalement au son et au live vidéo
+- **Pourquoi cette thématique vous intéresse-t-elle ? (environ 100 mots) :**
+Le sujet de recherche proposé par Émilie, « Création de visuels interactifs liés principalement au son et au live vidéo », m'intéresse, car j'avais déjà travaillé sur l'interactivité sonore et je voulais l'explorer encore plus. De plus, j'avais en tête une idée à concrétiser autour de cette thématique, mais je n'avais pas trouvé l'opportunité et le temps pour le réaliser. Je pense que ca sera une occasion d'explorer cette idée tout en enrichissant mes compétences dans le domaine.
+Quand j'étais au première année, j'avais travaillé sur un projet qui consiste à jouer avec les clics de souris pour former aléatoirement des cercles colorés (les couleurs étant définies en fonction des couleurs de mes vernis) que l'on peut superposer et je veux bien ajouter des sons en fonctions de couleurs.
+<img src="/img/ripple.png" height="300">
+
+
+## Outils et Techniques
+
+- **Outils que vous comptez utiliser (logiciels, langages de programmation, etc.) :**  ml5, linux, raspberry pi, une horloge mécanique, python, TFLite
+- **Techniques spécifiques que vous souhaitez maîtriser ou expérimenter :** linux, raspberry pi
+
+## Références Artistiques
+
+- **Argumentaire expliquant la pertinence de votre projet (environ 150 mots) :**   
+- **Références artistiques qui inspirent votre travail (livres, artistes, œuvres, etc.) :** 
 
 
 ## Actions
@@ -85,7 +110,7 @@ Questionner la présence des IA dans notre quotidien.
 
 ### Participation à un Sujet de Recherche
 
-// Quel sujet de recherche proposé par un étudiant vous intéresse et pourquoi ? : 
+Création de visuels interactifs liés principalement au son et au live vidéo. - Émilie
 
 ### Contributions aux ressources
 
