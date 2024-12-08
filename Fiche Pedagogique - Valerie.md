@@ -66,7 +66,13 @@ Cette thématique m'intéresse parce que l'IA a un potentiel immense pour améli
 ## Références Artistiques
 
 - **Argumentaire expliquant la pertinence de votre projet (environ 150 mots) :**   
-- **Références artistiques qui inspirent votre travail (livres, artistes, œuvres, etc.) :** 
+- **Références artistiques qui inspirent votre travail (livres, artistes, œuvres, etc.) :**
+  - The Unuseless Inventions of Kenji Kawakami
+  - Les Temps modernes, Charlie Chaplin - smile forcé
+  - Kim Le Boutin https://www.instagram.com/kimbtn_/
+  - Temporary Autonomous Zone - Hakim Bey
+  - Hypernormalisation | Full Documentary | Adam Curtis https://www.youtube.com/watch?v=Gr7T07WfIhM
+  - ENIAROF https://www.eniarof.com/
 
 
 # Projet 2
@@ -88,8 +94,7 @@ Mon projet propose de recréer cette expérience pour les visiteurs. Ils peuvent
 
 ## Outils et Techniques
 
-- **Outils que vous comptez utiliser (logiciels, langages de programmation, etc.) :**  IA : Librosa, Essentia ou un outil d’analyse musicale (comme Spotify API).
-Création visuelle : TouchDesigner pour générer et synchroniser les visuels.
+- **Outils que vous comptez utiliser (logiciels, langages de programmation, etc.) :**  IA : Librosa, Essentia ou un outil d’analyse musicale (comme Spotify API), TouchDesigner (pour création visuel)
 - **Techniques spécifiques que vous souhaitez maîtriser ou expérimenter :** TouchDesigner
 
 ## Références Artistiques
@@ -275,6 +280,7 @@ Dans python :
 - Temporary Autonomous Zone - Hakim Bey
 - Hypernormalisation | Full Documentary | Adam Curtis https://www.youtube.com/watch?v=Gr7T07WfIhM
 - ENIAROF https://www.eniarof.com/
+  
 - PANG PANG CLUB https://pangpangclub.com/
 - DISNOVATION.ORG https://disnovation.org/index.php
 - _The Pirate Cinema_, Nicolas Maigret https://www.maisonpop.fr/the-pirate-cinema
