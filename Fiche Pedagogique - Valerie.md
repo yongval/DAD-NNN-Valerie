@@ -83,7 +83,7 @@ Cette thématique m'intéresse parce que l'IA a un potentiel immense pour améli
 - **Description du projet (environ 150 mots) :**
 Personnellement, j’expérimente souvent des moments contemplatifs en musique, une immersion profonde dans la musique, surtout le soir après une journée bien remplie. Ces instants m’aident à me recentrer et à apprécier la musique pleinement dans un état de détente totale, et surtout je me concentre sur les détails instrumentaux.
 Mon projet propose de recréer cette expérience pour les visiteurs. Ils peuvent charger leur musique préférée, qui sera analysée par une intelligence artificielle. Celle-ci en extrait les caractéristiques instrumentales, rythmiques et émotionnelles, pour les traduire en une expérience visuelle immersive et interactive, générée en temps réel avec TouchDesigner.
-(Pour aller plus loin plus tard? : Chaque personne laisse sa musique et ses visuels peuvent être combinés avec ceux des autres pour créer une œuvre collaborative. Cela pourrait enrichir l'expérience tout en célébrant la diversité musicale des participants.)
+(Pour aller plus loin plus tard? : Chaque personne laisse sa musique et ses visuels peuvent être combinés avec ceux des autres pour créer une œuvre collaborative. Cela pourrait enrichir l'expérience tout en célébrant la diversité musicale des participants.
 
 
 ### Thématiques de Recherche
@@ -94,7 +94,7 @@ Mon projet propose de recréer cette expérience pour les visiteurs. Ils peuvent
 
 ## Outils et Techniques
 
-- **Outils que vous comptez utiliser (logiciels, langages de programmation, etc.) :**  IA : Librosa, Essentia ou un outil d’analyse musicale (comme Spotify API), TouchDesigner (pour création visuel)
+- **Outils que vous comptez utiliser (logiciels, langages de programmation, etc.) :**  
 - **Techniques spécifiques que vous souhaitez maîtriser ou expérimenter :** TouchDesigner
 
 ## Références Artistiques
@@ -291,20 +291,3 @@ Dans python :
 <img src="/img/horloge.jpg" height="300"> <img src="/img/sketch1.jpg" height="300"> <img src="/img/sketch2.jpg" height="300">
 - Tester python alarme sur rasberry pi (avec les images car il y a pas de webcam à ESAD) → ça marche
 - Discuter avec Eda sur les autres sujets de recherches pour trouver l'idée. Eda m'a aider à penser sur le sujet "Comment créer des expériences contemplatives musicales".
-
-### 08.12.2024
-**Ce que j'ai réalisé :** 
-- Idée pour le sujet d'Émilie, Comment créer des expériences contemplatives musicales ?
-
-Étapes du projet :
-1. Analyse musicale avec IA :
-- Utiliser une IA de traitement audio (comme Librosa, Essentia ou une API comme Spotify) pour analyser :
-  - Les fréquences (basses, médiums, aigus).
-  - Le rythme (tempo, structure).
-  - Les émotions véhiculées par la musique (analyse des tonalités ou du mode majeur/mineur).
-  - Les instruments principaux et leur spectre sonore.
-2. Transformation en données visuelles :
-- Les données extraites (fréquences, intensités, rythmes) contrôlent des visuels dans TouchDesigner :
-  - Les basses génèrent des formes solides et vibrantes (ex. : ondulations).
-  - Les aigus se traduisent par des éclats lumineux ou des particules dynamiques.
-  - Les changements de rythme modifient la vitesse des animations.
