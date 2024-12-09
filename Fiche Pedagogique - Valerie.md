@@ -81,8 +81,8 @@ Cette thématique m'intéresse parce que l'IA a un potentiel immense pour améli
 
 - **Titre du projet :**  
 - **Description du projet (environ 150 mots) :**
-Personnellement, j’expérimente des moments contemplatifs en musique, une immersion profonde dans la musique, seulement quand j'ai fait tous les choses à faire, donc sans aucun inquiétude. Sinon je me déconcentre facilement et oublie que je suis en train d'écouter de la musique à cause des pensée, des inquiétudes.
-Donc créer qqch qui m'aide contempler en musique ? 
+Je n'arrive pas à contempler en musique si je suis en train de faire d'autre chose. La musique devient un bruit blanc et j'oublie totalement que je suis en train d'écouter de la musique.
+AI detecte un mouvement de corps, la musique devient flou, ou devient comme un bruit blanc. 
 
 
 ### Thématiques de Recherche
