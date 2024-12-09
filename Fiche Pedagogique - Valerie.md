@@ -81,9 +81,8 @@ Cette thématique m'intéresse parce que l'IA a un potentiel immense pour améli
 
 - **Titre du projet :**  
 - **Description du projet (environ 150 mots) :**
-Personnellement, j’expérimente souvent des moments contemplatifs en musique, une immersion profonde dans la musique, surtout le soir après une journée bien remplie. Ces instants m’aident à me recentrer et à apprécier la musique pleinement dans un état de détente totale, et surtout je me concentre sur les détails instrumentaux.
-Mon projet propose de recréer cette expérience pour les visiteurs. Ils peuvent charger leur musique préférée, qui sera analysée par une intelligence artificielle. Celle-ci en extrait les caractéristiques instrumentales, rythmiques et émotionnelles, pour les traduire en une expérience visuelle immersive et interactive, générée en temps réel avec TouchDesigner.
-(Pour aller plus loin plus tard? : Chaque personne laisse sa musique et ses visuels peuvent être combinés avec ceux des autres pour créer une œuvre collaborative. Cela pourrait enrichir l'expérience tout en célébrant la diversité musicale des participants.
+Personnellement, j’expérimente des moments contemplatifs en musique, une immersion profonde dans la musique, seulement quand j'ai fait tous les choses à faire, donc sans aucun inquiétude. Sinon je me déconcentre facilement et oublie que je suis en train d'écouter de la musique à cause des pensée, des inquiétudes.
+Donc créer qqch qui m'aide contempler en musique ? 
 
 
 ### Thématiques de Recherche
