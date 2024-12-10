@@ -300,4 +300,4 @@ Dans python :
 **Ce que j'ai réalisé :** 
 - imprimer le design d'alarme
 - changer le script cv2.VideoCapture(0) → Picamera2 (il faut installer python3-picamera2) , car picamera2 est designer pour interagir avec libcamera
-<img src="/img/picamera-success.jpg" height="500">
+<img src="/img/picamera-success.jpg" height="500"> <img src="/img/script.jpg" height="500">
