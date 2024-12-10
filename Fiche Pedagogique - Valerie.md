@@ -297,3 +297,5 @@ Dans python :
 ### 10.12.2024
 - camera : libcamera-hello
 
+**Ce que j'ai réalisé :** 
+- changer le script cv2.VideoCapture(0) → Picamera2 (il faut installer python3-picamera2) , car picamera2 est designer pour interagir avec libcamera
