@@ -290,3 +290,7 @@ Dans python :
 <img src="/img/horloge.jpg" height="300"> <img src="/img/sketch1.jpg" height="300"> <img src="/img/sketch2.jpg" height="300">
 - Tester python alarme sur rasberry pi (avec les images car il y a pas de webcam à ESAD) → ça marche
 - Discuter avec Eda sur les autres sujets de recherches pour trouver l'idée. Eda m'a aider à penser sur le sujet "Comment créer des expériences contemplatives musicales".
+
+### 10.12.2024
+- camera : lib -hello
+
