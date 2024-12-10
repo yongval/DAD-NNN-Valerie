@@ -301,5 +301,8 @@ Dans python :
 **Ce que j'ai réalisé :** 
 - imprimer le design d'alarme
 - changer le script cv2.VideoCapture(0) → Picamera2 (il faut installer python3-picamera2) , car picamera2 est designer pour interagir avec libcamera
+- Add the libcamera shared library path to your environment:
+  export LD_LIBRARY_PATH=/usr/lib/arm-linux-gnueabihf/:$LD_LIBRARY_PATH
+  export PYTHONPATH=/usr/lib/python3/dist-packages:$PYTHONPATH
 
 <img src="/img/picamera-success.jpg" height="500"> <img src="/img/script.jpg" height="500">
