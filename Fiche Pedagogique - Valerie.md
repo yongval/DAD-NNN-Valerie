@@ -306,3 +306,9 @@ Dans python :
   export PYTHONPATH=/usr/lib/python3/dist-packages:$PYTHONPATH
 
 <img src="/img/picamera-success.jpg" height="500"> <img src="/img/script.jpg" height="500">
+
+- Pourquoi détecter en Grayscale? → pour simplifier et accélérer le traitement. Les algorithmes de détection de visage (haarcascades) et les modèles de reconnaissance d'émotions se concentrent sur les formes et les contrastes, pas sur les couleurs. De plus, cela réduit la quantité de données à analyser, ce qui est essentiel pour un traitement en temps réel.
+- haarcascade_frontalface_default.xml : modèle de détection de visages
+Ce modèle repose sur des "caractéristiques Haar" pour analyser des motifs dans l'image (par exemple, des contrastes clairs/foncés entre les yeux et le nez).
+  - https://github.com/opencv/opencv/tree/master/data/haarcascades
+- emotion_detection_model.tflite : modèle d'apprentissage profond qui a été formé pour prédire les émotions à partir de l'image du visage. 
