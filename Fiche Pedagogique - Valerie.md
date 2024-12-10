@@ -295,7 +295,8 @@ Dans python :
 - Discuter avec Eda sur les autres sujets de recherches pour trouver l'idée. Eda m'a aider à penser sur le sujet "Comment créer des expériences contemplatives musicales".
 
 ### 10.12.2024
-- camera : libcamera-hello
+- tester le camera : libcamera-hello
 
 **Ce que j'ai réalisé :** 
+- imprimer le design d'alarme
 - changer le script cv2.VideoCapture(0) → Picamera2 (il faut installer python3-picamera2) , car picamera2 est designer pour interagir avec libcamera
