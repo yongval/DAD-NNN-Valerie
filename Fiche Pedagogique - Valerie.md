@@ -295,5 +295,5 @@ Dans python :
 - Discuter avec Eda sur les autres sujets de recherches pour trouver l'idée. Eda m'a aider à penser sur le sujet "Comment créer des expériences contemplatives musicales".
 
 ### 10.12.2024
-- camera : lib -hello
+- camera : libcamera-hello
 
