@@ -82,7 +82,7 @@ Cette thématique m'intéresse parce que l'IA a un potentiel immense pour améli
 - **Titre du projet :**  
 - **Description du projet (environ 150 mots) :**
 Je n'arrive pas à contempler en musique si je suis en train de faire d'autre chose. La musique devient un bruit blanc et j'oublie totalement que je suis en train d'écouter de la musique.
-AI detecte un mouvement de corps, la musique devient flou, ou devient comme un bruit blanc. 
+AI detecte un mouvement de corps?, la musique devient flou, ou devient comme un bruit blanc. 
 
 
 ### Thématiques de Recherche
