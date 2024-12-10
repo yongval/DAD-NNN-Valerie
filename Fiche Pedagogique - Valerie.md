@@ -255,6 +255,9 @@ Python pour alarme (lance le son d'alarme et s'éteint quand il détecte Happy)
 Dans python :
 - pip install pygame, une bibliothèque utilisée pour créer des jeux vidéo et des applications multimédias en Python, dont je peux jouer des sonsdans divers formats (comme .mp3, .wav)
 - pip install tflite-runtime
+
+  
+- source tflite1-env/bin/activate
 <img src="/img/happy_detected.png" height="400">
 
 - Installer TensorFlow Lite sur Raspberry Pi : https://github.com/EdjeElectronics/TensorFlow-Lite-Object-Detection-on-Android-and-Raspberry-Pi/blob/master/deploy_guides/Raspberry_Pi_Guide.md
