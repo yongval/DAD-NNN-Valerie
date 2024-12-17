@@ -65,7 +65,7 @@ Cette thématique m'intéresse parce que l'IA a un potentiel immense pour améli
 
 ## Références Artistiques
 
-- **Argumentaire expliquant la pertinence de votre projet (environ 150 mots) :**   
+- **Argumentaire expliquant la pertinence de votre projet (environ 150 mots) :**   Comme le conseil de Charlie Chaplin de *« sourire »* même face au désespoir, comme on le voit dans *Les Temps modernes*, j'ai voulu transmettre un message d'avancer vers un avenir incertain mais plein d'espoir, même si cela commence par un sourire forcé.
 - **Références artistiques qui inspirent votre travail (livres, artistes, œuvres, etc.) :**
   - The Unuseless Inventions of Kenji Kawakami
   - Les Temps modernes, Charlie Chaplin - smile forcé
