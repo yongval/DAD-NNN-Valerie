@@ -53,7 +53,7 @@ Chaque fois que je testais la détection de mon sourire, cela me faisait sourire
 
 ### Thématiques de Recherche
 
-- **Thématiques que vous souhaitez explorer :**   Utiliser l'IA comme assistant au quotidien, avec une approche teintée d’humour.
+- **Thématiques que vous souhaitez explorer :**  
 - **Pourquoi cette thématique vous intéresse-t-elle ? (environ 100 mots) :**
 Cette thématique m'intéresse parce que l'IA a un potentiel immense pour améliorer notre quotidien, et j'aime l'idée de l'exploiter de façon ludique et accessible. En ajoutant une touche d'humour, j’espère transformer des tâches banales ou même désagréables en expériences plus légères et engageantes. Explorer l'IA sous cet angle permet aussi de démystifier la technologie, la rendant plus humaine et conviviale. Cela m'offre la possibilité de mêler créativité et innovation, pour concevoir des outils utiles, drôles et stimulants. Je souhaite explorer les compétences technologiques qui évoluent avec nous et enrichissent notre quotidien. Je m’inspire de Bruce Mazlish, qui, dans The Fourth Discontinuity, affirme que l’Homme n'est plus seulement le créateur des machines, mais qu'il co-évolue en symbiose avec elles.
 
@@ -65,7 +65,7 @@ Cette thématique m'intéresse parce que l'IA a un potentiel immense pour améli
 
 ## Références Artistiques
 
-- **Argumentaire expliquant la pertinence de votre projet (environ 150 mots) :**   Comme le conseil de Charlie Chaplin de *« sourire »* même face au désespoir, comme on le voit dans *Les Temps modernes*, j'ai voulu transmettre un message d'avancer vers un avenir incertain mais plein d'espoir, même si cela commence par un sourire forcé.
+- **Argumentaire expliquant la pertinence de votre projet (environ 150 mots) :**   Comme le conseil de Charlie Chaplin de *« sourire »* même face au désespoir, comme on le voit dans *Les Temps modernes*, j'ai voulu transmettre un message d'avancer vers un avenir incertain mais plein d'espoir, même si cela commence par un sourire forcé. Je me suis inspiré du Chindogu, la pratique qui consiste à inventer des gadgets ingénieux du quotidien qui semblent être des solutions idéales à des problèmes spécifiques, mais qui finissent souvent par causer plus de problèmes qu'ils n'en résolvent. Cependant, je souhaite aller plus loin en répondant à de petits problèmes quotidiens grâce à l'IA. En ajoutant une touche d'humour, parfois teintée d'une nuance dystopique, j'espère transformer des tâches banales, voire désagréables, en expériences plus légères et amusantes qui peuvent aussi inviter à la réflexion.
 - **Références artistiques qui inspirent votre travail (livres, artistes, œuvres, etc.) :**
   - The Unuseless Inventions of Kenji Kawakami
   - Les Temps modernes, Charlie Chaplin - smile forcé
@@ -80,7 +80,7 @@ Cette thématique m'intéresse parce que l'IA a un potentiel immense pour améli
 ### Sujet de Projet
 
 - **Titre du projet :**  
-- **Description du projet (environ 150 mots) :**
+- **Description du projet (environ 150 mots) :** Questionner la présence des IA dans notre quotidien.
 Pour moi, il est impossible de contempler la musique si je suis occupé à faire autre chose. Dans ces moments-là, la musique se transforme comme un bruit blanc, et je finis par oublier complètement que je l’écoute.
 Dans ce projet, l’IA détecte les mouvements corporels. Si un grand mouvement est capté, la musique devient floue ou se transforme en un bruit blanc, symbolisant la distraction. En contraire, lorsque la persone reste immobile, la musique reprend sa clarté et peut être pleinement appréciée.
 C'est-à-dire qu'il faut pas bouger pour contempler la musique.
