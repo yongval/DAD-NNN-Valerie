@@ -311,4 +311,8 @@ Dans python :
 - haarcascade_frontalface_default.xml : modèle de détection de visages
 Ce modèle repose sur des "caractéristiques Haar" pour analyser des motifs dans l'image (par exemple, des contrastes clairs/foncés entre les yeux et le nez).
   - https://github.com/opencv/opencv/tree/master/data/haarcascades
-- emotion_detection_model.tflite : modèle d'apprentissage profond qui a été formé pour prédire les émotions à partir de l'image du visage. 
+- emotion_detection_model.tflite : modèle d'apprentissage profond qui a été formé pour prédire les émotions à partir de l'image du visage.
+
+### 06.01.2025
+**Ce que j'ai réalisé :** 
+- finalisation de monter l'horloge
