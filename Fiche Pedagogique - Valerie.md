@@ -316,3 +316,7 @@ Ce modèle repose sur des "caractéristiques Haar" pour analyser des motifs dans
 ### 06.01.2025
 **Ce que j'ai réalisé :** 
 - finalisation de monter l'horloge
+- chercher comment run script on start up in raspberry
+- chercher comment controler DC moteur avec raspberry
+- penser à l'accrochage
+<img src="/img/accrochage.jpg" height="500">
