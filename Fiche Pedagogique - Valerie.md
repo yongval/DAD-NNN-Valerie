@@ -317,9 +317,9 @@ Ce modèle repose sur des "caractéristiques Haar" pour analyser des motifs dans
 **Ce que j'ai réalisé :** 
 - finalisation de monter l'horloge
 - chercher comment run python script on start up in raspberry
-   → https://www.samwestby.com/tutorials/rpi-startupscript.html 
+  - https://www.samwestby.com/tutorials/rpi-startupscript.html 
 - chercher comment controler DC moteur avec raspberry
-   → https://youtube.com/watch?v=a99SiwFRcUI
-   → https://github.com/Berardinux/DC-Motor-RaspberryPi/tree/main
+  - https://youtube.com/watch?v=a99SiwFRcUI
+  - https://github.com/Berardinux/DC-Motor-RaspberryPi/tree/main
 - penser à l'accrochage
 <img src="/img/accrochage.jpg" height="400">
