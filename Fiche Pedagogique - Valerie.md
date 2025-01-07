@@ -305,6 +305,11 @@ Dans python :
   export LD_LIBRARY_PATH=/usr/lib/arm-linux-gnueabihf/:$LD_LIBRARY_PATH
   export PYTHONPATH=/usr/lib/python3/dist-packages:$PYTHONPATH
 
+cd /home/yongb/tflite1
+source tflite1-env/bin/activate
+export LD_LIBRARY_PATH=/usr/lib/arm-linux-gnueabihf/:$LD_LIBRARY_PATH export PYTHONPATH=/usr/lib/python3/dist-packages:$PYTHONPATH
+python alarm.py
+
 <img src="/img/picamera-success.jpg" height="500"> <img src="/img/script.jpg" height="500">
 
 - Pourquoi détecter en Grayscale? → pour simplifier et accélérer le traitement. Les algorithmes de détection de visage (haarcascades) et les modèles de reconnaissance d'émotions se concentrent sur les formes et les contrastes, pas sur les couleurs. De plus, cela réduit la quantité de données à analyser, ce qui est essentiel pour un traitement en temps réel.
