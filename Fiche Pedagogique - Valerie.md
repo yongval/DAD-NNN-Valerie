@@ -332,3 +332,6 @@ Ce modèle repose sur des "caractéristiques Haar" pour analyser des motifs dans
   - https://github.com/Berardinux/DC-Motor-RaspberryPi/tree/main
 - penser à l'accrochage
 <img src="/img/accrochage.jpg" height="400">
+
+### 07.01.2025
+- aider Jolaine pour l'ouverture de la porte sur Unity
