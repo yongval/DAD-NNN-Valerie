@@ -55,7 +55,7 @@ Chaque fois que je testais la détection de mon sourire, cela me faisait sourire
 
 - **Thématiques que vous souhaitez explorer :**  Questionner la présence des IA dans notre quotidien.
 - **Pourquoi cette thématique vous intéresse-t-elle ? (environ 100 mots) :**
-Cette thématique m'intéresse parce que l'IA a un potentiel immense pour améliorer notre quotidien, et j'aime l'idée de l'exploiter de façon ludique et accessible. En ajoutant une touche d'humour, j’espère transformer des tâches banales ou même désagréables en expériences plus légères et engageantes. Je souhaite explorer et utiliser les compétences technologiques qui évoluent avec nous et enrichissent notre quotidien. Je m’inspire de Bruce Mazlish, qui, dans The Fourth Discontinuity, affirme que l’Homme n'est plus seulement le créateur des machines, mais qu'il co-évolue en symbiose avec elles.
+Cette thématique m'intéresse parce que l'IA a un potentiel pour améliorer notre quotidien, et j'aime l'idée de l'exploiter de façon ludique et accessible. En ajoutant une touche d'humour, j’espère transformer des tâches banales ou même désagréables en expériences plus légères et engageantes. Je souhaite explorer et utiliser les compétences technologiques qui évoluent avec nous et enrichissent notre quotidien. Je m’inspire de Bruce Mazlish, qui, dans The Fourth Discontinuity, affirme que l’Homme n'est plus seulement le créateur des machines, mais qu'il co-évolue en symbiose avec elles.
 
 
 ## Outils et Techniques
