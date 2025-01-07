@@ -148,16 +148,6 @@ Présentation sur la découverte de la liste de code de python: https://github.c
 - sujet de recherche : l’IA qui nous “aide” + humour? 
 - Quelles aides? A préciser. → quotidien? 
 
-**Ref :** 
-- The Unuseless Inventions of Kenji Kawakami 
-  - https://www.instagram.com/tonsil/reel/C4JQdfiOh1q/?locale=zh-hans&hl=fr 
-  - https://www.lemonde.fr/arts/portfolio/2015/02/20/les-objets-improbables-et-delirants-de-kenji-kawakami-au-palais-de-tokyo_4580304_1655012.html?epik=dj0yJnU9bHY3clBhZVVCN2t2MmtyeDZ5NHI3RU1PMkt3ZldLUkUmcD0wJm49XzV0TWNpVmZZX3FQSEl4MjFFQWhndyZ0PUFBQUFBR2NoQTVz 
-
-- Molleindustria Games https://www.molleindustria.org/
-- Shake that Button https://shakethatbutton.com/
-- Abstract Machine https://abstractmachine.net/en 
-- Jan Hakon Erichsen http://www.janhakon.com/ 
-
 **Idée :** 
 - Jeu consolable seulement par les émotions faciales qui peut être bénéficier pour les handicapés. J’ai été inspiré par le jeu jouable seulement avec les  yeux : Eyes First games https://www.microsoft.com/en-us/research/product/eyes-first/ 
   - Anger for Attack
@@ -186,13 +176,6 @@ Présentation sur la découverte de la liste de code de python: https://github.c
 - Alarme écrire la description du projet
 - sujet de recherche
 
-**Ref :** 
-- These 3 smart objects remind senior citizens to take pills, read without strain and stay connected! https://www.yankodesign.com/2020/07/21/these-3-smart-objects-remind-senior-citizens-to-take-pills-read-without-strain-and-stay-connected/ 
-- ODDADA
-- Orca by Rek & Devine https://hundredrabbits.itch.io/orca 
-- (Design) Solo Radio Matches Music to Your Mood https://coolhunting.com/tech/solo-radio-mood-matches-expression/ 
-
-
 Idle Game
 - Candybox https://candybox2.github.io/candybox/ 
 - Cookie Clicker https://orteil.dashnet.org/cookieclicker/
@@ -208,10 +191,6 @@ Idle Game
 4. quel code faut-il utiliser (voir avec Robin) 
 5. dessin design horloge mécanique (iconographique, caricaturale, machine)
 6. Trouvé une horloge (le bon coin, vinted, resources AAA, etc)
-
-**Ref :** 
-- Les Temps modernes, Charlie Chaplin - smile forcé 
-- Thingiverse (communauté pour 3D printing)
 
 - How to Run TensorFlow Lite Models on Windows https://github.com/EdjeElectronics/TensorFlow-Lite-Object-Detection-on-Android-and-Raspberry-Pi/blob/master/deploy_guides/Windows_TFLite_Guide.md
 - TensorFlow Lite Object Detection on Android and Raspberry Pi https://github.com/EdjeElectronics/TensorFlow-Lite-Object-Detection-on-Android-and-Raspberry-Pi?tab=readme-ov-file#step-3-run-tensorflow-lite-models
@@ -280,17 +259,6 @@ Dans python :
 <img src="/img/shindogu3.png" height="240">  <img src="/img/shindogu4.png" height="240">
 <img src="/img/shindogu5.png" height="240">  → Projet 2 "Don't move to listen to the music!" > Comment créer des expériences contemplatives musicales ? 
 
-**Ref :** 
-- Kim Le Boutin https://www.instagram.com/kimbtn_/
-- Unconventional Site https://loadmo.re/
-- Temporary Autonomous Zone - Hakim Bey
-- Hypernormalisation | Full Documentary | Adam Curtis https://www.youtube.com/watch?v=Gr7T07WfIhM
-- ENIAROF https://www.eniarof.com/
-  
-- PANG PANG CLUB https://pangpangclub.com/
-- DISNOVATION.ORG https://disnovation.org/index.php
-- _The Pirate Cinema_, Nicolas Maigret https://www.maisonpop.fr/the-pirate-cinema
-
 **Ce que j'ai réalisé :** 
 - Démonter l'alarme
 
@@ -335,6 +303,7 @@ Ce modèle repose sur des "caractéristiques Haar" pour analyser des motifs dans
   - https://github.com/Berardinux/DC-Motor-RaspberryPi/tree/main
 - penser à l'accrochage
 <img src="/img/accrochage.jpg" height="400">
+- repenser sur ma positionnement : nouvelles pratiques des nouveaux techniques (non pas l'innovation)
 
 ### 07.01.2025
 **Ce que j'ai réalisé :** 
