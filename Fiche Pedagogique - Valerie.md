@@ -176,12 +176,6 @@ Présentation sur la découverte de la liste de code de python: https://github.c
 - Alarme écrire la description du projet
 - sujet de recherche
 
-Idle Game
-- Candybox https://candybox2.github.io/candybox/ 
-- Cookie Clicker https://orteil.dashnet.org/cookieclicker/
-- Paperclips https://www.decisionproblem.com/paperclips/index2.html 
-- YouTube Ego https://www.youtube.com/@ego_one 
-
 
 ### 12.11.2024
 **Planning de Travail :** 
