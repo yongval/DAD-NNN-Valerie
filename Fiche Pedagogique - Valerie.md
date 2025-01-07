@@ -276,6 +276,9 @@ Dans python :
 **À faire**
 - Démonter l'alarme
 - Découvrir TrouchDesigner
+- <img src="/img/shindogu1.png" height="240"> <img src="/img/shindogu2.png" height="240">
+<img src="/img/shindogu3.png" height="240">  <img src="/img/shindogu4.png" height="240">
+<img src="/img/shindogu5.png" height="240">
 
 **Ref :** 
 - Kim Le Boutin https://www.instagram.com/kimbtn_/
@@ -334,4 +337,5 @@ Ce modèle repose sur des "caractéristiques Haar" pour analyser des motifs dans
 <img src="/img/accrochage.jpg" height="400">
 
 ### 07.01.2025
+**Ce que j'ai réalisé :** 
 - aider Jolaine pour l'ouverture de la porte sur Unity
