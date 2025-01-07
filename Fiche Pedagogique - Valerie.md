@@ -60,12 +60,15 @@ Cette thématique m'intéresse parce que l'IA a un potentiel pour améliorer not
 
 ## Outils et Techniques
 
-- **Outils que vous comptez utiliser (logiciels, langages de programmation, etc.) :**  ml5, linux, raspberry pi, une horloge mécanique, python, TFLite
+- **Outils que vous comptez utiliser (logiciels, langages de programmation, etc.) :**  ml5, linux, raspberry pi, une horloge mécanique, python, TFLite, deep learning
 - **Techniques spécifiques que vous souhaitez maîtriser ou expérimenter :** linux, raspberry pi
 
 ## Références Artistiques
 
-- **Argumentaire expliquant la pertinence de votre projet (environ 150 mots) :**   Comme le conseil de Charlie Chaplin de *« sourire »* même face au désespoir, comme on le voit dans *Les Temps modernes*, j'ai voulu transmettre un message d'avancer vers un avenir incertain mais plein d'espoir, même si cela commence par un sourire forcé. Je me suis inspiré du Chindogu, la pratique qui consiste à inventer des gadgets ingénieux du quotidien qui semblent être des solutions idéales à des problèmes spécifiques, mais qui finissent souvent par causer plus de problèmes qu'ils n'en résolvent. Cependant, je souhaite aller plus loin en répondant à de petits problèmes quotidiens grâce à l'IA. En ajoutant une touche d'humour, parfois teintée d'une nuance dystopique, j'espère transformer des tâches banales, voire désagréables, en expériences plus légères et amusantes qui peuvent aussi inviter à la réflexion.
+- **Argumentaire expliquant la pertinence de votre projet (environ 150 mots) :**   En ajoutant une touche d'humour, je transforme des tâches banales du quotidien en nouvelles expériences, notamment en utilisant les nouvelles technologies. Je me suis inspiré du Chindogu de Kenji Kawakami, qui consiste à réinventer des objets qui semblent être des solutions idéales à des problèmes quotidiens avec un côté humoristique et un peu  étrange. 
+Comme le conseil de Charlie Chaplin de « sourire » même face au désespoir, comme on le voit dans Les Temps modernes, j'ai voulu transmettre un message d'avancer vers un avenir incertain mais plein d'espoir, même si cela commence par un sourire forcé. 
+Mais à la fois, comme dans ce projet, ça peut donner un côté critique sur le fait de forcer la sourire. 
+
 - **Références artistiques qui inspirent votre travail (livres, artistes, œuvres, etc.) :**
   - The Unuseless Inventions of Kenji Kawakami
   - Les Temps modernes, Charlie Chaplin - smile forcé
