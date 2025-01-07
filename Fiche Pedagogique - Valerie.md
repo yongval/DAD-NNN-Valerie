@@ -270,12 +270,10 @@ Dans python :
   export LD_LIBRARY_PATH=/usr/lib/arm-linux-gnueabihf/:$LD_LIBRARY_PATH
   export PYTHONPATH=/usr/lib/python3/dist-packages:$PYTHONPATH
 
+lancer le script : 
 cd /home/yongb/tflite1
-
 source tflite1-env/bin/activate
-
 export LD_LIBRARY_PATH=/usr/lib/arm-linux-gnueabihf/:$LD_LIBRARY_PATH export PYTHONPATH=/usr/lib/python3/dist-packages:$PYTHONPATH
-
 python alarm.py
 
 <img src="/img/picamera-success.jpg" height="500"> <img src="/img/script.jpg" height="500">
