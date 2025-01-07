@@ -301,4 +301,4 @@ Ce modèle repose sur des "caractéristiques Haar" pour analyser des motifs dans
 
 ### 07.01.2025
 **Ce que j'ai réalisé :** 
-- aider Jolaine pour l'ouverture de la porte sur Unity
+- aider Jolaine pour l'ouverture de la porte sur Unity → fail...TT
