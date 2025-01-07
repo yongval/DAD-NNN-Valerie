@@ -53,7 +53,7 @@ Chaque fois que je testais la détection de mon sourire, cela me faisait sourire
 
 ### Thématiques de Recherche
 
-- **Thématiques que vous souhaitez explorer :**  
+- **Thématiques que vous souhaitez explorer :**  Questionner la présence des IA dans notre quotidien.
 - **Pourquoi cette thématique vous intéresse-t-elle ? (environ 100 mots) :**
 Cette thématique m'intéresse parce que l'IA a un potentiel immense pour améliorer notre quotidien, et j'aime l'idée de l'exploiter de façon ludique et accessible. En ajoutant une touche d'humour, j’espère transformer des tâches banales ou même désagréables en expériences plus légères et engageantes. Explorer l'IA sous cet angle permet aussi de démystifier la technologie, la rendant plus humaine et conviviale. Cela m'offre la possibilité de mêler créativité et innovation, pour concevoir des outils utiles, drôles et stimulants. Je souhaite explorer les compétences technologiques qui évoluent avec nous et enrichissent notre quotidien. Je m’inspire de Bruce Mazlish, qui, dans The Fourth Discontinuity, affirme que l’Homme n'est plus seulement le créateur des machines, mais qu'il co-évolue en symbiose avec elles.
 
@@ -80,7 +80,7 @@ Cette thématique m'intéresse parce que l'IA a un potentiel immense pour améli
 ### Sujet de Projet
 
 - **Titre du projet :**  
-- **Description du projet (environ 150 mots) :** Questionner la présence des IA dans notre quotidien.
+- **Description du projet (environ 150 mots) :** Don't move to listen to the music!
 Pour moi, il est impossible de contempler la musique si je suis occupé à faire autre chose. Dans ces moments-là, la musique se transforme comme un bruit blanc, et je finis par oublier complètement que je l’écoute.
 Dans ce projet, l’IA détecte les mouvements corporels. Si un grand mouvement est capté, la musique devient floue ou se transforme en un bruit blanc, symbolisant la distraction. En contraire, lorsque la persone reste immobile, la musique reprend sa clarté et peut être pleinement appréciée.
 C'est-à-dire qu'il faut pas bouger pour contempler la musique.
@@ -94,7 +94,7 @@ C'est-à-dire qu'il faut pas bouger pour contempler la musique.
 
 ## Outils et Techniques
 
-- **Outils que vous comptez utiliser (logiciels, langages de programmation, etc.) :**  
+- **Outils que vous comptez utiliser (logiciels, langages de programmation, etc.) :**  python? p5js? 
 - **Techniques spécifiques que vous souhaitez maîtriser ou expérimenter :** TouchDesigner
 
 ## Références Artistiques
@@ -278,7 +278,7 @@ Dans python :
 - Découvrir TrouchDesigner
 - <img src="/img/shindogu1.png" height="240"> <img src="/img/shindogu2.png" height="240">
 <img src="/img/shindogu3.png" height="240">  <img src="/img/shindogu4.png" height="240">
-<img src="/img/shindogu5.png" height="240">
+<img src="/img/shindogu5.png" height="240">  → Comment créer des expériences contemplatives musicales ? "Don't move to listen to the music!"
 
 **Ref :** 
 - Kim Le Boutin https://www.instagram.com/kimbtn_/
