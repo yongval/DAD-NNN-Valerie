@@ -289,7 +289,7 @@ Ce modèle repose sur des "caractéristiques Haar" pour analyser des motifs dans
 ### 06.01.2025
 **Ce que j'ai réalisé :** 
 - finalisation de monter l'horloge
-<img src="/img/horloge-processus.jpg" height="300">  <img src="/img/horloge1.jpg" height="300">  <img src="/img/horloge2.jpg" height="300">
+  <img src="/img/horloge-processus.jpg" height="300">  <img src="/img/horloge1.jpg" height="300">  <img src="/img/horloge2.jpg" height="300">
 <img src="/img/horloge3.jpg" height="300">
 - chercher comment run python script on start up in raspberry
   - https://www.samwestby.com/tutorials/rpi-startupscript.html
