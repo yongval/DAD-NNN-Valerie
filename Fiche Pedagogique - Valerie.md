@@ -66,7 +66,14 @@ Cette thématique m'intéresse parce que l'IA a un potentiel pour améliorer not
 ## Références Artistiques
 
 - **Argumentaire expliquant la pertinence de votre projet (environ 150 mots) :**   En ajoutant une touche d'humour, je transforme des tâches banales du quotidien en nouvelles expériences, notamment en utilisant les nouvelles technologies. Je me suis inspiré du Chindogu de Kenji Kawakami, qui consiste à réinventer des objets qui semblent être des solutions idéales à des problèmes quotidiens avec un côté humoristique et un peu  étrange. 
-Mon projet se réfère à Charlie Chaplin dans Les Temps modernes, de « sourire » même face au désespoir, même si c’est un sourire forcé. 
+Mais en même temps, mon projet se réfère à Charlie Chaplin dans Les Temps modernes, en critiquant ironiquement le sourire forcé face à la société industrielle et innovative. 
+
+→ suivre le rythme imposé 
+→ la perte d’autonomie
+→ capitalisme, sourire pour vivre 
+→ Film Unknown Label Nicolas Gourault
+→ Les employés doivent afficher un enthousiasme constant, même face à des conditions de travail précaires ou une charge émotionnelle accrue
+→ L’omniprésence des technologies connectées conduit à un envahissement de la vie privée 
 
 - **Références artistiques qui inspirent votre travail (livres, artistes, œuvres, etc.) :**
   - The Unuseless Inventions of Kenji Kawakami
