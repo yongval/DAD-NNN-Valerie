@@ -311,4 +311,6 @@ Ce modèle repose sur des "caractéristiques Haar" pour analyser des motifs dans
 
 ### 08.01.2025
 - souder les diodes
-- 
+- testerle moteur  Fail
+- prendre des photos de mise en situation
+- accrochage
