@@ -253,7 +253,8 @@ Dans python :
 - Découvrir TrouchDesigner
 - <img src="/img/shindogu1.png" height="240"> <img src="/img/shindogu2.png" height="240">
 <img src="/img/shindogu3.png" height="240">  <img src="/img/shindogu4.png" height="240">
-  <img src="/img/shindogu5.png" height="240"> → Projet 2 "Don't move to listen to the music!" > Comment créer des expériences contemplatives musicales ? 
+<img src="/img/shindogu5.png" height="240">
+→ Projet 2 "Don't move to listen to the music!" > Comment créer des expériences contemplatives musicales ? 
 
 **Ce que j'ai réalisé :** 
 - Démonter l'alarme
