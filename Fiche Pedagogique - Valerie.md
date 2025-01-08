@@ -293,8 +293,7 @@ Ce modèle repose sur des "caractéristiques Haar" pour analyser des motifs dans
   - https://www.samwestby.com/tutorials/rpi-startupscript.html
   - https://www.instructables.com/Raspberry-Pi-Launch-Python-script-on-startup/
 - chercher comment controler DC moteur avec raspberry
-  - https://youtube.com/watch?v=a99SiwFRcUI
-  - https://github.com/Berardinux/DC-Motor-RaspberryPi/tree/main
+  - https://www.raspberrypi-france.fr/comment-utiliser-les-port-gpio-raspberry-pi/
 - penser à l'accrochage
 <img src="/img/accrochage.jpg" height="400">
 - repenser sur ma positionnement : nouvelles pratiques des nouveaux techniques (non pas l'innovation)
