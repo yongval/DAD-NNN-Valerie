@@ -76,8 +76,9 @@ Mais en même temps, mon projet se réfère à Charlie Chaplin dans Les Temps mo
 
 - **Références artistiques qui inspirent votre travail (livres, artistes, œuvres, etc.) :**
   - The Unuseless Inventions of Kenji Kawakami
-  - Les Temps modernes, Charlie Chaplin - smile forcé
+  - Les Temps modernes, Charlie Chaplin			- sourire forcé
   - Film Unknown Label Nicolas Gourault
+ 		- micro-travailleurs sur labelisation des images pour nourrir les ia en tant que data base. 
   - Kim Le Boutin https://www.instagram.com/kimbtn_/
   - Temporary Autonomous Zone - Hakim Bey
   - Hypernormalisation | Full Documentary | Adam Curtis https://www.youtube.com/watch?v=Gr7T07WfIhM
