@@ -314,3 +314,5 @@ Ce modèle repose sur des "caractéristiques Haar" pour analyser des motifs dans
 - testerle moteur  Fail
 - prendre des photos de mise en situation
 - accrochage
+<img src="/img/alarme.jpg" height="300">  <img src="/img/alarme1.jpg" height="300">  <img src="/img/alarme2.jpg" height="300">
+<img src="/img/alarme3.jpg" height="300">
