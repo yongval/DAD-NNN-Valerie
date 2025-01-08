@@ -294,10 +294,16 @@ Ce modèle repose sur des "caractéristiques Haar" pour analyser des motifs dans
   - https://www.instructables.com/Raspberry-Pi-Launch-Python-script-on-startup/
 - chercher comment controler DC moteur avec raspberry
   - https://www.raspberrypi-france.fr/comment-utiliser-les-port-gpio-raspberry-pi/
-- penser à l'accrochage
-<img src="/img/accrochage.jpg" height="400">
 - repenser sur ma positionnement : nouvelles pratiques des nouveaux techniques (non pas l'innovation)
 
 ### 07.01.2025
 **Ce que j'ai réalisé :** 
 - aider Jolaine pour l'ouverture de la porte sur Unity → fail...TT
+- tourner le caméra 180°
+- run python script on start up
+- penser à l'accrochage
+<img src="/img/accrochage.jpg" height="400">
+
+### 08.01.2025
+- souder les diodes
+- 
