@@ -327,6 +327,6 @@ Ce modèle repose sur des "caractéristiques Haar" pour analyser des motifs dans
 <img src="/img/alarme3.jpg" height="300">
 
 retouché: 
-<img src="/img/alarme3-retouched.jpg" height="300">
+<img src="/img/alarme2-retouched.jpg" height="300">
 
 - relais 5v 
